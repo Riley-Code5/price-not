@@ -37,7 +37,8 @@ searchButton.addEventListener("click", async () => {
     
     // Handle errors from your function
     if (amazonData.error) {
-      throw new Error(amazonData.error);
+      console.error('Function returned error:', amazonData);
+      throw new Error(`Function error: ${amazonData.message || amazonData.error}`);
     }
 
     const amazonResult = await findSensibleAmazonProduct(amazonData);

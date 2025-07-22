@@ -52,6 +52,9 @@ exports.handler = async (event, context) => {
 
   } catch (error) {
     console.error('Function error:', error);
+    console.error('Error stack:', error.stack);
+    console.error('Event body:', event.body);
+    console.error('SERPAPI_KEY exists:', !!process.env.SERPAPI_KEY);
     
     return {
       statusCode: 500,
@@ -61,7 +64,9 @@ exports.handler = async (event, context) => {
       },
       body: JSON.stringify({ 
         error: 'Internal server error',
-        message: error.message 
+        message: error.message,
+        stack: error.stack,
+        hasApiKey: !!process.env.SERPAPI_KEY
       })
     };
   }
