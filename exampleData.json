@@ -1,0 +1,1088 @@
+    {
+        "search_metadata":
+        {
+            "id": "687faf6aff7aa2ebd3d59113",
+            "status": "Success",
+            "json_endpoint": "https://serpapi.com/searches/4fe1bafaad8a9f4b/687faf6aff7aa2ebd3d59113.json",
+            "created_at": "2025-07-22 15:34:02 UTC",
+            "processed_at": "2025-07-22 15:34:02 UTC",
+            "amazon_url": "https://www.amazon.com/s?k=%5B%22clothing%22%2C+%22dress%22%2C+%22red%22%2C+%22comfortable%22%2C+%22fashion%22%2C+%22women%22%2C+%22apparel%22%2C+%22style%22%2C+%22b2c%22%2C+%22retail%22%5D",
+            "raw_html_file": "https://serpapi.com/searches/4fe1bafaad8a9f4b/687faf6aff7aa2ebd3d59113.html",
+            "total_time_taken": 1.67
+        }
+        ,
+        "search_parameters":
+        {
+            "engine": "amazon",
+            "k": "["clothing", "dress", "red", "comfortable", "fashion", "women", "apparel", "style", "b2c", "retail"]",
+            "amazon_domain": "amazon.com",
+            "device": "desktop"
+        }
+        ,
+        "search_information":
+        {
+            "total_results": 8,
+            "query_displayed": "[x22clothingx22, x22dressx22, x22redx22, x22comfortablex22, x22fashionx22, x22womenx22, x22apparelx22, x22stylex22, x22b2cx22, x22retailx22]",
+            "store": "gateway",
+            "page": 1
+        }
+        ,
+        "product_ads":
+        {
+            "video_thumbnail": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/2608b8e4-5906-46f2-ab0d-77d6eed92af9.mp4/r/THUMBNAIL_360P_FRAME_3_CAPTURE_2.JPG",
+            "video_src": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/2608b8e4-5906-46f2-ab0d-77d6eed92af9.mp4/productVideoOptimized.mp4",
+            "video_link": "https://aax-us-iad.amazon.com/x/c/JLPipy5tRi-m9H1wjSJFHz8AAAGYMsU9CwEAAAH2AQBvbm9fdHhuX2JpZDEgICBvbm9fdHhuX2ltcDIgICDeDZoY/clv1_CEuOPUxokZA0iHrVQaIOxQbVGV9fDLBtuqcs0x2Jyu1N138FhQumFv018nHz9hvWjq0yzpNb3XTPsunPhWYceVMmFCe1E5PcNx8HPk9BYH2AH7tyhSAOLZEdHEepnoemXJOUalC7tdMeWEwmgVz7bV1AckwCRMN0CRVmUax7QwuP3u3MgFIzS1q5d5TuNOspGHpbasDVlJ1bT2hxC9tUMuUFm8yvmtV0DgjzOKVy-i0Vs7d2vLK7GWsuqRqJ-0hcN3jpMffPnUdL6EdDGtZaMjOYRyGXghLNCd7m6b_pSZUgD1ig-I6A-jeRfQnKCdOHzfAI4MRVQfT-krrGPP20Jfl00ftIYQsLo784wfVsPpln11Z5KUuB8SGc8owif0KjaQ9R0GOvpH8ppSr1AoykS24BZM7zucVmVbcmG3VHnlJ_MfhRt19KAG1Hvpd3Q2koAbq8evbnn_GxbxExYg_Kn70VX1StqmboahZTe71PmfuZLCxb7pGA7hrdSE5MLrCipM5S7DNDS7Ionz7duH-61DaGbSBPKWsOCjGfXQ7KLqTGTjOsGilVx0pHVA_-S3nobPwhsfpEbza9o6hUmfw9OzvwFgNqqHxj6MAkuKaqhUorvqew4oY_PnHuz16mbaHmLlwQFfUCJR9r4c5GBYJu5wck37fSPiRvckYkqc5448UwI3AiXSedkEolgW_5Y8NY4DkNxn54_pUI1NV7AE-LSmQe-7bvMN247JnMJH0jOhrjqzLhTfkhmAJ7t9sbetiZo6F0EhLKhUTS9gnoEFjDPiVWhhT5N01QnvFAePInXjmgo1w0C9BvsB1lsZS_SFzFf-K_QwFD9RH-kPZJauRvlaqd3lwoq_GxGuSux-Wmrka62kOX2Foxmjzhr2Gt4wLxqfo0nP8jxDDJIcw4eOAyIcij2MuDwUpAOhltUzfjiXX5p21mK1Y1aGptdBXq7Fq0lBi6Zun0x6yFgPjjxTaaB6NwPveYVJXU33SfSAp-Is4VRjB_QHhzSLPpwRD5BkYXAiWA57d49hEQRLpj066Q0z9iph5NI9-BkXhYzaFCjwpQaRPnXYaSPhbmbp9aIfAeT1y_erjxTWs1Jp-lbKKQo97ZfT3VwL97fs0PAzVSD6apN1D7Dtk7umloJ_qIlrb3mOAHSvHdx2s1L8lXkGUWRmAVXOXPXUDFGLYh6b_HlaKT7CO82ljU7LoqsB1Kfc0yMXueNmPX-HCLbAgTlGLnKde2x8BsgPRO8DyS55BJFHvoN1M0Sn-R-0-4vBIgBYH8XJ4-keToSmXNYox7bMFKhWNy-sJBr4an4zS2l2y2EPTCWsJvROHg1ecdqiWe9tUyNqknIh-M7ljC0MQrXXcZ6YHp9NcE_UBHY5hrAtR5mZohvEeUNGKFpOftMUWvJ6hgNBvPVE-VJx7EZzwkbNPnTLyWujWaHE9u9YIq2ffKpmJIajV5_oMcCecqMTXaMx2hzQMsGnzUmJW_ox3qJgPRV2_n12iEc_Jq85kW1N040X4shE7OPUWTMFBe-r0rtcyDh07WfyJMIsVjM6_Of4Q4XwTYtc_NKROaMUGgKag3nsy199XJ6qKxZ6ZPFtQLn9t-T-fzN3np_Ln3YNr9KRoQZghJxP_j-KMt76Lp9l7n6de3bVD5EyC5mzdUnQVtQqnlQBfPQFr2-bY3VXqdswxXzadUZC_mRmskD5pLo_8SDPGmLMAgt6_GXUwX58ODn8W3hvpybaOp6RpTg3abvpIoKCvR2yZTn3aMobpOLgCeklmIjfLa99EybbdXwnr1RdEZjrU99zKBhppEAvNSQIJvjGoTPdLUxm2Pdd6HfwXHjJeXJrOEy71rhvYiYuaJqv5ktTIbA8J5C4wDndLdM0n2CILNrK9cKJT5dvNQMz5tgxxWy936OJq7l0EYcbyh-NcMt9uKIyNko4DPCI_v55xmgF8o_lbLC37q7mfgwFj8DoypwTkiFGMp_BNFI2uZbm9Cutq_ED5hSY_qlNjZDOSSKRiZhMRcJX2AQ7tMaQzYC_LtITsUaJmkWZmajhD7qy5hWMxhVB4DQJFRqll5kr2a_oXQpd5Wddm7TOx0XrJCZOE7srJEN0ZNW-Ao0HQgLqmr0zY-dVxw0KaG8A7rZF_VPUU6La2L1o2JOK-UpSF0fo_g6auNxyvaQRLDGyIlK1Q/https://www.amazon.com/dp/B0F8VV65FR/?_encoding=UTF8&_encoding=UTF8&pd_rd_i=B0F8VV65FR&ref_=sxts_sparkle_sbv&ref_=sbx_be_s_sparkle_ssd_vid&qid=1753198443&pd_rd_w=dJAYm&content-id=amzn1.sym.9f2b2b9e-47e9-4764-a4dc-2be2f6fca36d%3Aamzn1.sym.9f2b2b9e-47e9-4764-a4dc-2be2f6fca36d&pf_rd_p=9f2b2b9e-47e9-4764-a4dc-2be2f6fca36d&pf_rd_r=YZ00MWS5YEN8N07CZQV2&pd_rd_wg=pMLDG&pd_rd_r=7eca00ee-76be-4da2-8715-84eb090d6c9d",
+            "store_page": "Shop Grace",
+            "store_page_link": "https://aax-us-iad.amazon.com/x/c/JLPipy5tRi-m9H1wjSJFHz8AAAGYMsU9CwEAAAH2AQBvbm9fdHhuX2JpZDEgICBvbm9fdHhuX2ltcDIgICDeDZoY/clv1_CEuOPUxokZA0iHrVQaIOxQbVGV9fDLBtuqcs0x2Jyu1N138FhQumFv018nHz9hvWjq0yzpNb3XTPsunPhWYceVMmFCe1E5PcNx8HPk9BYH2AH7tyhSAOLZEdHEepnoemXJOUalC7tdMeWEwmgVz7bV1AckwCRMN0CRVmUax7QwuP3u3MgFIzS1q5d5TuNOspGHpbasDVlJ1bT2hxC9tUMuUFm8yvmtV0DgjzOKVy-i0Vs7d2vLK7GWsuqRqJ-0hcN3jpMffPnUdL6EdDGtZaMjOYRyGXghLNCd7m6b_pSZUgD1ig-I6A-jeRfQnKCdOHzfAI4MRVQfT-krrGPP20Jfl00ftIYQsLo784wfVsPpln11Z5KUuB8SGc8owif0KjaQ9R0GOvpH8ppSr1AoykS24BZM7zucVmVbcmG3VHnlJ_MfhRt19KAG1Hvpd3Q2koAbq8evbnn_GxbxExYg_Kn70VX1StqmboahZTe71PmfuZLCxb7pGA7hrdSE5MLrCipM5S7DNDS7Ionz7duH-61DaGbSBPKWsOCjGfXQ7KLqTGTjOsGilVx0pHVA_-S3nobPwhsfpEbza9o6hUmfw9OzvwFgNqqHxj6MAkuKaqhUorvqew4oY_PnHuz16mbaHmLlwQFfUCJR9r4c5GBYJu5wck37fSPiRvckYkqc5448UwI3AiXSedkEolgW_5Y8NY4DkNxn54_pUI1NV7AE-LSmQe-7bvMN247JnMJH0jOhrjqzLhTfkhmAJ7t9sbetiZo6F0EhLKhUTS9gnoEFjDPiVWhhT5N01QnvFAePInXjmgo1w0C9BvsB1lsZS_SFzFf-K_QwFD9RH-kPZJauRvlaqd3lwoq_GxGuSux-Wmrka62kOX2Foxmjzhr2Gt4wLxqfo0nP8jxDDJIcw4eOAyIcij2MuDwUpAOhltUzfjiXX5p21mK1Y1aGptdBXq7Fq0lBi6Zun0x6yFgPjjxTaaB6NwPveYVJXU33SfSAp-Is4VRjB_QHhzSLPpwRD5BkYXAiWA57d49hEQRLpj066Q0z9iph5NI9-BkXhYzaFCjwpQaRPnXYaSPhbmbp9aIfAeT1y_erjxTWs1Jp-lbKKQo97ZfT3VwL97fs0PAzVSD6apN1D7Dtk7umloJ_qIlrb3mOAHSvHdx2s1L8lXkGUWRmAVXOXPXUDFGLYh6b_HlaKT7CO82ljU7LoqsB1Kfc0yMXueNmPX-HCLbAgTlGLnKde2x8BsgPRO8DyS55BJFHvoN1M0Sn-R-0-4vBIgBYH8XJ4-keToSmXNYox7bMFKhWNy-sJBr4an4zS2l2y2EPTCWsJvROHg1ecdqiWe9tUyNqknIh-M7ljC0MQrXXcZ6YHp9NcE_UBHY5hrAtR5mZohvEeUNGKFpOftMUWvJ6hgNBvPVE-VJx7EZzwkbNPnTLyWujWaHE9u9YIq2ffKpmJIajV5_oMcCecqMTXaMx2hzQMsGnzUmJW_ox3qJgPRV2_n12iEc_Jq85kW1N040X4shE7OPUWTMFBe-r0rtcyDh07WfyJMIsVjM6_Of4Q4XwTYtc_NKROaMUGgKag3nsy199XJ6qKxZ6ZPFtQLn9t-T-fzN3np_Ln3YNr9KRoQZghJxP_j-KMt76Lp9l7n6de3bVD5EyC5mzdUnQVtQqnlQBfPQFr2-bY3VXqdswxXzadUZC_mRmskD5pLo_8SDPGmLMAgt6_GXUwX58ODn8W3hvpybaOp6RpTg3abvpIoKCvR2yZTn3aMobpOLgCeklmIjfLa99EybbdXwnr1RdEZjrU99zKBhppEAvNSQIJvjGoTPdLUxm2Pdd6HfwXHjJeXJrOEy71rhvYiYuaJqv5ktTIbA8J5C4wDndLdM0n2CILNrK9cKJT5dvNQMz5tgxxWy936OJq7l0EYcbyh-NcMt9uKIyNko4DPCI_v55xmgF8o_lbLC37q7mfgwFj8DoypwTkiFGMp_BNFI2uZbm9Cutq_ED5hSY_qlNjZDOSSKRiZhMRcJX2AQ7tMaQzYC_LtITsUaJmkWZmajhD7qy5hWMxhVB4DQJFRqll5kr2a_oXQpd5Wddm7TOx0XrJCZOE7srJEN0ZNW-Ao0HQgLqmr0zY-dVxw0KaG8A7rZF_VPUU6La2L1o2JOK-UpSF0fo_g6auNxyvaQRLDGyIlK1Q/https://amazon.com/stores/page/87C34C1F-156A-4E73-AFA0-7C19974B4580/?_encoding=UTF8&pd_rd_plhdr=t&pd_rd_i=B0F8VV65FR&ref_=sbx_be_s_sparkle_ssd_cta&store_ref=SBV_A0435563TI5KRZS2PLKB-A06138762JPVM1J8BG5XB&lp_asins=B0F8VV65FR&pd_rd_w=dJAYm&content-id=amzn1.sym.9f2b2b9e-47e9-4764-a4dc-2be2f6fca36d%3Aamzn1.sym.9f2b2b9e-47e9-4764-a4dc-2be2f6fca36d&pf_rd_p=9f2b2b9e-47e9-4764-a4dc-2be2f6fca36d&pf_rd_r=YZ00MWS5YEN8N07CZQV2&pd_rd_wg=pMLDG&pd_rd_r=7eca00ee-76be-4da2-8715-84eb090d6c9d",
+            "products":
+            [
+                {
+                    "position": 1,
+                    "asin": "B0F8VV65FR",
+                    "sponsored": true,
+                    "title": "GRACE KARIN Women's Fall Dresses 2025 Long Sleeve Casual Maxi Boho Long Dress High Waisted A-Line Ruffle Dress Elegant Classy",
+                    "link": "https://aax-us-iad.amazon.com/x/c/JLPipy5tRi-m9H1wjSJFHz8AAAGYMsU9CwEAAAH2AQBvbm9fdHhuX2JpZDEgICBvbm9fdHhuX2ltcDIgICDeDZoY/clv1_CEuOPUxokZA0iHrVQaIOxQbVGV9fDLBtuqcs0x2Jyu1N138FhQumFv018nHz9hvWjq0yzpNb3XTPsunPhWYceVMmFCe1E5PcNx8HPk9BYH2AH7tyhSAOLZEdHEepnoemXJOUalC7tdMeWEwmgVz7bV1AckwCRMN0CRVmUax7QwuP3u3MgFIzS1q5d5TuNOspGHpbasDVlJ1bT2hxC9tUMuUFm8yvmtV0DgjzOKVy-i0Vs7d2vLK7GWsuqRqJ-0hcN3jpMffPnUdL6EdDGtZaMjOYRyGXghLNCd7m6b_pSZUgD1ig-I6A-jeRfQnKCdOHzfAI4MRVQfT-krrGPP20Jfl00ftIYQsLo784wfVsPpln11Z5KUuB8SGc8owif0KjaQ9R0GOvpH8ppSr1AoykS24BZM7zucVmVbcmG3VHnlJ_MfhRt19KAG1Hvpd3Q2koAbq8evbnn_GxbxExYg_Kn70VX1StqmboahZTe71PmfuZLCxb7pGA7hrdSE5MLrCipM5S7DNDS7Ionz7duH-61DaGbSBPKWsOCjGfXQ7KLqTGTjOsGilVx0pHVA_-S3nobPwhsfpEbza9o6hUmfw9OzvwFgNqqHxj6MAkuKaqhUorvqew4oY_PnHuz16mbaHmLlwQFfUCJR9r4c5GBYJu5wck37fSPiRvckYkqc5448UwI3AiXSedkEolgW_5Y8NY4DkNxn54_pUI1NV7AE-LSmQe-7bvMN247JnMJH0jOhrjqzLhTfkhmAJ7t9sbetiZo6F0EhLKhUTS9gnoEFjDPiVWhhT5N01QnvFAePInXjmgo1w0C9BvsB1lsZS_SFzFf-K_QwFD9RH-kPZJauRvlaqd3lwoq_GxGuSux-Wmrka62kOX2Foxmjzhr2Gt4wLxqfo0nP8jxDDJIcw4eOAyIcij2MuDwUpAOhltUzfjiXX5p21mK1Y1aGptdBXq7Fq0lBi6Zun0x6yFgPjjxTaaB6NwPveYVJXU33SfSAp-Is4VRjB_QHhzSLPpwRD5BkYXAiWA57d49hEQRLpj066Q0z9iph5NI9-BkXhYzaFCjwpQaRPnXYaSPhbmbp9aIfAeT1y_erjxTWs1Jp-lbKKQo97ZfT3VwL97fs0PAzVSD6apN1D7Dtk7umloJ_qIlrb3mOAHSvHdx2s1L8lXkGUWRmAVXOXPXUDFGLYh6b_HlaKT7CO82ljU7LoqsB1Kfc0yMXueNmPX-HCLbAgTlGLnKde2x8BsgPRO8DyS55BJFHvoN1M0Sn-R-0-4vBIgBYH8XJ4-keToSmXNYox7bMFKhWNy-sJBr4an4zS2l2y2EPTCWsJvROHg1ecdqiWe9tUyNqknIh-M7ljC0MQrXXcZ6YHp9NcE_UBHY5hrAtR5mZohvEeUNGKFpOftMUWvJ6hgNBvPVE-VJx7EZzwkbNPnTLyWujWaHE9u9YIq2ffKpmJIajV5_oMcCecqMTXaMx2hzQMsGnzUmJW_ox3qJgPRV2_n12iEc_Jq85kW1N040X4shE7OPUWTMFBe-r0rtcyDh07WfyJMIsVjM6_Of4Q4XwTYtc_NKROaMUGgKag3nsy199XJ6qKxZ6ZPFtQLn9t-T-fzN3np_Ln3YNr9KRoQZghJxP_j-KMt76Lp9l7n6de3bVD5EyC5mzdUnQVtQqnlQBfPQFr2-bY3VXqdswxXzadUZC_mRmskD5pLo_8SDPGmLMAgt6_GXUwX58ODn8W3hvpybaOp6RpTg3abvpIoKCvR2yZTn3aMobpOLgCeklmIjfLa99EybbdXwnr1RdEZjrU99zKBhppEAvNSQIJvjGoTPdLUxm2Pdd6HfwXHjJeXJrOEy71rhvYiYuaJqv5ktTIbA8J5C4wDndLdM0n2CILNrK9cKJT5dvNQMz5tgxxWy936OJq7l0EYcbyh-NcMt9uKIyNko4DPCI_v55xmgF8o_lbLC37q7mfgwFj8DoypwTkiFGMp_BNFI2uZbm9Cutq_ED5hSY_qlNjZDOSSKRiZhMRcJX2AQ7tMaQzYC_LtITsUaJmkWZmajhD7qy5hWMxhVB4DQJFRqll5kr2a_oXQpd5Wddm7TOx0XrJCZOE7srJEN0ZNW-Ao0HQgLqmr0zY-dVxw0KaG8A7rZF_VPUU6La2L1o2JOK-UpSF0fo_g6auNxyvaQRLDGyIlK1Q/https://www.amazon.com/dp/B0F8VV65FR/?_encoding=UTF8&pd_rd_i=B0F8VV65FR&ref_=sbx_be_s_sparkle_ssd_img&qid=1753198443&pd_rd_w=dJAYm&content-id=amzn1.sym.9f2b2b9e-47e9-4764-a4dc-2be2f6fca36d%3Aamzn1.sym.9f2b2b9e-47e9-4764-a4dc-2be2f6fca36d&pf_rd_p=9f2b2b9e-47e9-4764-a4dc-2be2f6fca36d&pf_rd_r=YZ00MWS5YEN8N07CZQV2&pd_rd_wg=pMLDG&pd_rd_r=7eca00ee-76be-4da2-8715-84eb090d6c9d&pd_rd_plhdr=t",
+                    "link_clean": "https://www.amazon.com/dp/B0F8VV65FR/",
+                    "thumbnail": "https://m.media-amazon.com/images/I/41SAgWSXFfL._AC_SR250,250_QL65_.jpg",
+                    "rating": 4.2,
+                    "reviews": 25,
+                    "badges":
+                    [
+                        "10% off"
+                    ]
+                }
+            ]
+            ,
+            "logo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/fa0d8189-bc6e-42ca-9693-c0fd822dd9d4._AC_SX175_SY100_QL70_.jpg"
+        }
+        ,
+        "organic_results":
+        [
+            {
+                "position": 1,
+                "asin": "B092VSFC67",
+                "sponsored": true,
+                "variants":
+                {
+                    "more_variants": "+39 other colors/patterns",
+                    "more_variants_link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo4MzE2ODk2NzY0ODAxOTY1OjE3NTMxOTg0NDM6c3BfYXRmOjMwMDc3ODA5MTg5ODgwMjo6MDo6&url=%2FDresses-Summer-Sleeveless-Sundress-Pockets%2Fdp%2FB092VSFC67%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.f09nd5H3idgEaB7-FxcHRokKG38Juw8f4_BoHHQYEy6M__1GKQe4PTJ689SAz1NUS_7-aAQIO-59VUxz2JiZSwKEh1OkcIIa4sovV_wU_Lg1OJtn0xbMD3BmMxLFUT7u.tB0yl4anyVd7q38U2zWi2mAbFcO4C00FZsKSMSmWIOc%26dib_tag%3Dse%26keywords%3D%255B%2522clothing%2522%252C%2B%2522dress%2522%252C%2B%2522red%2522%252C%2B%2522comfortable%2522%252C%2B%2522fashion%2522%252C%2B%2522women%2522%252C%2B%2522apparel%2522%252C%2B%2522style%2522%252C%2B%2522b2c%2522%252C%2B%2522retail%2522%255D%26qid%3D1753198443%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1"
+                }
+                ,
+                "brand": "elescat",
+                "title": "Women's Summer Dresses 2025 Beach Casual Sleeveless Floral Print Tank Loose Sundress with Pocket",
+                "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo4MzE2ODk2NzY0ODAxOTY1OjE3NTMxOTg0NDM6c3BfYXRmOjMwMDc3ODA5MTg5ODgwMjo6MDo6&url=%2FDresses-Summer-Sleeveless-Sundress-Pockets%2Fdp%2FB092VSFC67%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.f09nd5H3idgEaB7-FxcHRokKG38Juw8f4_BoHHQYEy6M__1GKQe4PTJ689SAz1NUS_7-aAQIO-59VUxz2JiZSwKEh1OkcIIa4sovV_wU_Lg1OJtn0xbMD3BmMxLFUT7u.tB0yl4anyVd7q38U2zWi2mAbFcO4C00FZsKSMSmWIOc%26dib_tag%3Dse%26keywords%3D%255B%2522clothing%2522%252C%2B%2522dress%2522%252C%2B%2522red%2522%252C%2B%2522comfortable%2522%252C%2B%2522fashion%2522%252C%2B%2522women%2522%252C%2B%2522apparel%2522%252C%2B%2522style%2522%252C%2B%2522b2c%2522%252C%2B%2522retail%2522%255D%26qid%3D1753198443%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1",
+                "link_clean": "https://www.amazon.com/dp/B092VSFC67/",
+                "thumbnail": "https://m.media-amazon.com/images/I/81pgpxI14DL._AC_UL320_.jpg",
+                "rating": 4.4,
+                "reviews": 32829,
+                "bought_last_month": "800+ bought in past month",
+                "price": "$19.98",
+                "extracted_price": 19.98,
+                "delivery":
+                [
+                    "FREE delivery Sun, Jul 27 on $35 of items shipped by Amazon",
+                    "Or fastest delivery Tomorrow, Jul 23"
+                ]
+            }
+            ,
+            {
+                "position": 2,
+                "asin": "B0FHHCFDV6",
+                "variants":
+                {
+                    "more_variants": "+4 other colors/patterns",
+                    "more_variants_link": "https://www.amazon.com/Short-Sleeved-Neck-Womens-Dress-Calves/dp/B0FHHCFDV6/ref=is_sr_dp?dib=eyJ2IjoiMSJ9.f09nd5H3idgEaB7-FxcHRokKG38Juw8f4_BoHHQYEy6M__1GKQe4PTJ689SAz1NUS_7-aAQIO-59VUxz2JiZSwKEh1OkcIIa4sovV_wU_Lg1OJtn0xbMD3BmMxLFUT7u.tB0yl4anyVd7q38U2zWi2mAbFcO4C00FZsKSMSmWIOc&dib_tag=se&keywords=%5B%22clothing%22%2C+%22dress%22%2C+%22red%22%2C+%22comfortable%22%2C+%22fashion%22%2C+%22women%22%2C+%22apparel%22%2C+%22style%22%2C+%22b2c%22%2C+%22retail%22%5D&qid=1753198443&sr=8-2"
+                }
+                ,
+                "brand": "Generic",
+                "title": "A Short-Sleeved O-Neck Women's Dress with Loose Calves",
+                "link": "https://www.amazon.com/Short-Sleeved-Neck-Womens-Dress-Calves/dp/B0FHHCFDV6/ref=sr_1_2?dib=eyJ2IjoiMSJ9.f09nd5H3idgEaB7-FxcHRokKG38Juw8f4_BoHHQYEy6M__1GKQe4PTJ689SAz1NUS_7-aAQIO-59VUxz2JiZSwKEh1OkcIIa4sovV_wU_Lg1OJtn0xbMD3BmMxLFUT7u.tB0yl4anyVd7q38U2zWi2mAbFcO4C00FZsKSMSmWIOc&dib_tag=se&keywords=%5B%22clothing%22%2C+%22dress%22%2C+%22red%22%2C+%22comfortable%22%2C+%22fashion%22%2C+%22women%22%2C+%22apparel%22%2C+%22style%22%2C+%22b2c%22%2C+%22retail%22%5D&qid=1753198443&sr=8-2",
+                "link_clean": "https://www.amazon.com/Short-Sleeved-Neck-Womens-Dress-Calves/dp/B0FHHCFDV6/",
+                "thumbnail": "https://m.media-amazon.com/images/I/412IuxwsEWL._AC_UL320_.jpg",
+                "price": "$38.88",
+                "extracted_price": 38.88,
+                "delivery":
+                [
+                    "$4.99 delivery Aug 4 - 12"
+                ]
+            }
+            ,
+            {
+                "position": 3,
+                "asin": "B0D9S69YXX",
+                "variants":
+                {
+                    "options":
+                    [
+                        {
+                            "position": 1,
+                            "asin": "B0D9S69YXX",
+                            "title": "Red",
+                            "link": "https://www.amazon.com/Sleeveless-printed-ethnic-fashion-dress/dp/B0D9S69YXX/ref=is_sr_dp_1?dib=eyJ2IjoiMSJ9.f09nd5H3idgEaB7-FxcHRokKG38Juw8f4_BoHHQYEy6M__1GKQe4PTJ689SAz1NUS_7-aAQIO-59VUxz2JiZSwKEh1OkcIIa4sovV_wU_Lg1OJtn0xbMD3BmMxLFUT7u.tB0yl4anyVd7q38U2zWi2mAbFcO4C00FZsKSMSmWIOc&dib_tag=se&keywords=%5B%22clothing%22%2C+%22dress%22%2C+%22red%22%2C+%22comfortable%22%2C+%22fashion%22%2C+%22women%22%2C+%22apparel%22%2C+%22style%22%2C+%22b2c%22%2C+%22retail%22%5D&qid=1753198443&sr=8-3"
+                        }
+                        ,
+                        {
+                            "position": 2,
+                            "asin": "B0D9S6QKVP",
+                            "title": "Blue",
+                            "link": "https://www.amazon.com/Sleeveless-printed-ethnic-fashion-dress/dp/B0D9S6QKVP/ref=is_sr_dp_2?dib=eyJ2IjoiMSJ9.f09nd5H3idgEaB7-FxcHRokKG38Juw8f4_BoHHQYEy6M__1GKQe4PTJ689SAz1NUS_7-aAQIO-59VUxz2JiZSwKEh1OkcIIa4sovV_wU_Lg1OJtn0xbMD3BmMxLFUT7u.tB0yl4anyVd7q38U2zWi2mAbFcO4C00FZsKSMSmWIOc&dib_tag=se&keywords=%5B%22clothing%22%2C+%22dress%22%2C+%22red%22%2C+%22comfortable%22%2C+%22fashion%22%2C+%22women%22%2C+%22apparel%22%2C+%22style%22%2C+%22b2c%22%2C+%22retail%22%5D&qid=1753198443&sr=8-3"
+                        }
+                        ,
+                        {
+                            "position": 3,
+                            "asin": "B0D9S7XG3X",
+                            "title": "Purple",
+                            "link": "https://www.amazon.com/Sleeveless-printed-ethnic-fashion-dress/dp/B0D9S7XG3X/ref=is_sr_dp_3?dib=eyJ2IjoiMSJ9.f09nd5H3idgEaB7-FxcHRokKG38Juw8f4_BoHHQYEy6M__1GKQe4PTJ689SAz1NUS_7-aAQIO-59VUxz2JiZSwKEh1OkcIIa4sovV_wU_Lg1OJtn0xbMD3BmMxLFUT7u.tB0yl4anyVd7q38U2zWi2mAbFcO4C00FZsKSMSmWIOc&dib_tag=se&keywords=%5B%22clothing%22%2C+%22dress%22%2C+%22red%22%2C+%22comfortable%22%2C+%22fashion%22%2C+%22women%22%2C+%22apparel%22%2C+%22style%22%2C+%22b2c%22%2C+%22retail%22%5D&qid=1753198443&sr=8-3"
+                        }
+                    ]
+                }
+                ,
+                "brand": "Kervaky",
+                "title": "Sleeveless printed ethnic fashion dress: a perfect encounter between traditional art and modern design",
+                "link": "https://www.amazon.com/Sleeveless-printed-ethnic-fashion-dress/dp/B0D9S69YXX/ref=sr_1_3?dib=eyJ2IjoiMSJ9.f09nd5H3idgEaB7-FxcHRokKG38Juw8f4_BoHHQYEy6M__1GKQe4PTJ689SAz1NUS_7-aAQIO-59VUxz2JiZSwKEh1OkcIIa4sovV_wU_Lg1OJtn0xbMD3BmMxLFUT7u.tB0yl4anyVd7q38U2zWi2mAbFcO4C00FZsKSMSmWIOc&dib_tag=se&keywords=%5B%22clothing%22%2C+%22dress%22%2C+%22red%22%2C+%22comfortable%22%2C+%22fashion%22%2C+%22women%22%2C+%22apparel%22%2C+%22style%22%2C+%22b2c%22%2C+%22retail%22%5D&qid=1753198443&sr=8-3",
+                "link_clean": "https://www.amazon.com/Sleeveless-printed-ethnic-fashion-dress/dp/B0D9S69YXX/",
+                "thumbnail": "https://m.media-amazon.com/images/I/71hM+X36QHL._AC_UL320_.jpg",
+                "price": "$33.99",
+                "extracted_price": 33.99,
+                "delivery":
+                [
+                    "$10.99 delivery Aug 1 - 12"
+                ]
+            }
+            ,
+            {
+                "position": 4,
+                "asin": "B0F9L5Z196",
+                "variants":
+                {
+                    "options":
+                    [
+                        {
+                            "position": 1,
+                            "asin": "B0F9L5Z196",
+                            "title": "Red",
+                            "link": "https://www.amazon.com/Elegant-Everyday-Vacations-Featuring-Delicate/dp/B0F9L5Z196/ref=is_sr_dp_1?dib=eyJ2IjoiMSJ9.f09nd5H3idgEaB7-FxcHRokKG38Juw8f4_BoHHQYEy6M__1GKQe4PTJ689SAz1NUS_7-aAQIO-59VUxz2JiZSwKEh1OkcIIa4sovV_wU_Lg1OJtn0xbMD3BmMxLFUT7u.tB0yl4anyVd7q38U2zWi2mAbFcO4C00FZsKSMSmWIOc&dib_tag=se&keywords=%5B%22clothing%22%2C+%22dress%22%2C+%22red%22%2C+%22comfortable%22%2C+%22fashion%22%2C+%22women%22%2C+%22apparel%22%2C+%22style%22%2C+%22b2c%22%2C+%22retail%22%5D&qid=1753198443&sr=8-4"
+                        }
+                        ,
+                        {
+                            "position": 2,
+                            "asin": "B0F9L7MGRP",
+                            "title": "Beige",
+                            "link": "https://www.amazon.com/Elegant-Everyday-Vacations-Featuring-Delicate/dp/B0F9L7MGRP/ref=is_sr_dp_2?dib=eyJ2IjoiMSJ9.f09nd5H3idgEaB7-FxcHRokKG38Juw8f4_BoHHQYEy6M__1GKQe4PTJ689SAz1NUS_7-aAQIO-59VUxz2JiZSwKEh1OkcIIa4sovV_wU_Lg1OJtn0xbMD3BmMxLFUT7u.tB0yl4anyVd7q38U2zWi2mAbFcO4C00FZsKSMSmWIOc&dib_tag=se&keywords=%5B%22clothing%22%2C+%22dress%22%2C+%22red%22%2C+%22comfortable%22%2C+%22fashion%22%2C+%22women%22%2C+%22apparel%22%2C+%22style%22%2C+%22b2c%22%2C+%22retail%22%5D&qid=1753198443&sr=8-4"
+                        }
+                        ,
+                        {
+                            "position": 3,
+                            "asin": "B0F9L8LBX5",
+                            "title": "Black",
+                            "link": "https://www.amazon.com/Elegant-Everyday-Vacations-Featuring-Delicate/dp/B0F9L8LBX5/ref=is_sr_s_dp_3?dib=eyJ2IjoiMSJ9.f09nd5H3idgEaB7-FxcHRokKG38Juw8f4_BoHHQYEy6M__1GKQe4PTJ689SAz1NUS_7-aAQIO-59VUxz2JiZSwKEh1OkcIIa4sovV_wU_Lg1OJtn0xbMD3BmMxLFUT7u.tB0yl4anyVd7q38U2zWi2mAbFcO4C00FZsKSMSmWIOc&dib_tag=se&keywords=%5B%22clothing%22%2C+%22dress%22%2C+%22red%22%2C+%22comfortable%22%2C+%22fashion%22%2C+%22women%22%2C+%22apparel%22%2C+%22style%22%2C+%22b2c%22%2C+%22retail%22%5D&qid=1753198443&sr=8-4"
+                        }
+                        ,
+                        {
+                            "position": 4,
+                            "asin": "B0F9L4S9DG",
+                            "title": "Green",
+                            "link": "https://www.amazon.com/Elegant-Everyday-Vacations-Featuring-Delicate/dp/B0F9L4S9DG/ref=is_sr_s_dp_4?dib=eyJ2IjoiMSJ9.f09nd5H3idgEaB7-FxcHRokKG38Juw8f4_BoHHQYEy6M__1GKQe4PTJ689SAz1NUS_7-aAQIO-59VUxz2JiZSwKEh1OkcIIa4sovV_wU_Lg1OJtn0xbMD3BmMxLFUT7u.tB0yl4anyVd7q38U2zWi2mAbFcO4C00FZsKSMSmWIOc&dib_tag=se&keywords=%5B%22clothing%22%2C+%22dress%22%2C+%22red%22%2C+%22comfortable%22%2C+%22fashion%22%2C+%22women%22%2C+%22apparel%22%2C+%22style%22%2C+%22b2c%22%2C+%22retail%22%5D&qid=1753198443&sr=8-4"
+                        }
+                        ,
+                        {
+                            "position": 5,
+                            "asin": "B0F9L8S25H",
+                            "title": "Navy",
+                            "link": "https://www.amazon.com/Elegant-Everyday-Vacations-Featuring-Delicate/dp/B0F9L8S25H/ref=is_sr_s_dp_5?dib=eyJ2IjoiMSJ9.f09nd5H3idgEaB7-FxcHRokKG38Juw8f4_BoHHQYEy6M__1GKQe4PTJ689SAz1NUS_7-aAQIO-59VUxz2JiZSwKEh1OkcIIa4sovV_wU_Lg1OJtn0xbMD3BmMxLFUT7u.tB0yl4anyVd7q38U2zWi2mAbFcO4C00FZsKSMSmWIOc&dib_tag=se&keywords=%5B%22clothing%22%2C+%22dress%22%2C+%22red%22%2C+%22comfortable%22%2C+%22fashion%22%2C+%22women%22%2C+%22apparel%22%2C+%22style%22%2C+%22b2c%22%2C+%22retail%22%5D&qid=1753198443&sr=8-4"
+                        }
+                    ]
+                }
+                ,
+                "brand": "Ailezt",
+                "title": "Elegant Women's Casual Dress with Round Neck Design Perfect for Everyday Wear and Vacations Featuring Delicate",
+                "link": "https://www.amazon.com/Elegant-Everyday-Vacations-Featuring-Delicate/dp/B0F9L5Z196/ref=sr_1_4?dib=eyJ2IjoiMSJ9.f09nd5H3idgEaB7-FxcHRokKG38Juw8f4_BoHHQYEy6M__1GKQe4PTJ689SAz1NUS_7-aAQIO-59VUxz2JiZSwKEh1OkcIIa4sovV_wU_Lg1OJtn0xbMD3BmMxLFUT7u.tB0yl4anyVd7q38U2zWi2mAbFcO4C00FZsKSMSmWIOc&dib_tag=se&keywords=%5B%22clothing%22%2C+%22dress%22%2C+%22red%22%2C+%22comfortable%22%2C+%22fashion%22%2C+%22women%22%2C+%22apparel%22%2C+%22style%22%2C+%22b2c%22%2C+%22retail%22%5D&qid=1753198443&sr=8-4",
+                "link_clean": "https://www.amazon.com/Elegant-Everyday-Vacations-Featuring-Delicate/dp/B0F9L5Z196/",
+                "thumbnail": "https://m.media-amazon.com/images/I/61pNz+YM1KL._AC_UL320_.jpg",
+                "price": "$24.69",
+                "extracted_price": 24.69,
+                "delivery":
+                [
+                    "FREE delivery Aug 4 - 12",
+                    "Or fastest delivery Jul 31 - Aug 5"
+                ]
+            }
+            ,
+            {
+                "position": 5,
+                "asin": "B0DQXNML7B",
+                "variants":
+                {
+                    "options":
+                    [
+                        {
+                            "position": 1,
+                            "asin": "B0DQXNML7B",
+                            "title": "Red",
+                            "link": "https://www.amazon.com/Short-Sleeved-Embroidered-Flowers-Numeric-Regular/dp/B0DQXNML7B/ref=is_sr_dp_1?dib=eyJ2IjoiMSJ9.f09nd5H3idgEaB7-FxcHRokKG38Juw8f4_BoHHQYEy6M__1GKQe4PTJ689SAz1NUS_7-aAQIO-59VUxz2JiZSwKEh1OkcIIa4sovV_wU_Lg1OJtn0xbMD3BmMxLFUT7u.tB0yl4anyVd7q38U2zWi2mAbFcO4C00FZsKSMSmWIOc&dib_tag=se&keywords=%5B%22clothing%22%2C+%22dress%22%2C+%22red%22%2C+%22comfortable%22%2C+%22fashion%22%2C+%22women%22%2C+%22apparel%22%2C+%22style%22%2C+%22b2c%22%2C+%22retail%22%5D&qid=1753198443&sr=8-5"
+                        }
+                        ,
+                        {
+                            "position": 2,
+                            "asin": "B0DQXQZPLP",
+                            "title": "Black",
+                            "link": "https://www.amazon.com/Short-Sleeved-Embroidered-Flowers-Numeric-Regular/dp/B0DQXQZPLP/ref=is_sr_dp_2?dib=eyJ2IjoiMSJ9.f09nd5H3idgEaB7-FxcHRokKG38Juw8f4_BoHHQYEy6M__1GKQe4PTJ689SAz1NUS_7-aAQIO-59VUxz2JiZSwKEh1OkcIIa4sovV_wU_Lg1OJtn0xbMD3BmMxLFUT7u.tB0yl4anyVd7q38U2zWi2mAbFcO4C00FZsKSMSmWIOc&dib_tag=se&keywords=%5B%22clothing%22%2C+%22dress%22%2C+%22red%22%2C+%22comfortable%22%2C+%22fashion%22%2C+%22women%22%2C+%22apparel%22%2C+%22style%22%2C+%22b2c%22%2C+%22retail%22%5D&qid=1753198443&sr=8-5"
+                        }
+                    ]
+                }
+                ,
+                "brand": "JINLICX",
+                "title": "Womens Short-Sleeved Round Neck Long Dress with Embroidered Flowers 8969",
+                "link": "https://www.amazon.com/Short-Sleeved-Embroidered-Flowers-Numeric-Regular/dp/B0DQXNML7B/ref=sr_1_5?dib=eyJ2IjoiMSJ9.f09nd5H3idgEaB7-FxcHRokKG38Juw8f4_BoHHQYEy6M__1GKQe4PTJ689SAz1NUS_7-aAQIO-59VUxz2JiZSwKEh1OkcIIa4sovV_wU_Lg1OJtn0xbMD3BmMxLFUT7u.tB0yl4anyVd7q38U2zWi2mAbFcO4C00FZsKSMSmWIOc&dib_tag=se&keywords=%5B%22clothing%22%2C+%22dress%22%2C+%22red%22%2C+%22comfortable%22%2C+%22fashion%22%2C+%22women%22%2C+%22apparel%22%2C+%22style%22%2C+%22b2c%22%2C+%22retail%22%5D&qid=1753198443&sr=8-5",
+                "link_clean": "https://www.amazon.com/Short-Sleeved-Embroidered-Flowers-Numeric-Regular/dp/B0DQXNML7B/",
+                "thumbnail": "https://m.media-amazon.com/images/I/514-uAoBPZL._AC_UL320_.jpg",
+                "price": "$45.23",
+                "extracted_price": 45.23,
+                "delivery":
+                [
+                    "$5.49 delivery Aug 12 - 20"
+                ]
+            }
+            ,
+            {
+                "position": 6,
+                "asin": "B0FHFXCFCP",
+                "variants":
+                {
+                    "more_variants": "+4 other colors/patterns",
+                    "more_variants_link": "https://www.amazon.com/Womens-Casual-Printed-Cardigan-Dress/dp/B0FHFXCFCP/ref=is_sr_dp?dib=eyJ2IjoiMSJ9.f09nd5H3idgEaB7-FxcHRokKG38Juw8f4_BoHHQYEy6M__1GKQe4PTJ689SAz1NUS_7-aAQIO-59VUxz2JiZSwKEh1OkcIIa4sovV_wU_Lg1OJtn0xbMD3BmMxLFUT7u.tB0yl4anyVd7q38U2zWi2mAbFcO4C00FZsKSMSmWIOc&dib_tag=se&keywords=%5B%22clothing%22%2C+%22dress%22%2C+%22red%22%2C+%22comfortable%22%2C+%22fashion%22%2C+%22women%22%2C+%22apparel%22%2C+%22style%22%2C+%22b2c%22%2C+%22retail%22%5D&qid=1753198443&sr=8-6"
+                }
+                ,
+                "brand": "Asiasioc",
+                "title": "Women's Casual Printed Cardigan Dress",
+                "link": "https://www.amazon.com/Womens-Casual-Printed-Cardigan-Dress/dp/B0FHFXCFCP/ref=sr_1_6?dib=eyJ2IjoiMSJ9.f09nd5H3idgEaB7-FxcHRokKG38Juw8f4_BoHHQYEy6M__1GKQe4PTJ689SAz1NUS_7-aAQIO-59VUxz2JiZSwKEh1OkcIIa4sovV_wU_Lg1OJtn0xbMD3BmMxLFUT7u.tB0yl4anyVd7q38U2zWi2mAbFcO4C00FZsKSMSmWIOc&dib_tag=se&keywords=%5B%22clothing%22%2C+%22dress%22%2C+%22red%22%2C+%22comfortable%22%2C+%22fashion%22%2C+%22women%22%2C+%22apparel%22%2C+%22style%22%2C+%22b2c%22%2C+%22retail%22%5D&qid=1753198443&sr=8-6",
+                "link_clean": "https://www.amazon.com/Womens-Casual-Printed-Cardigan-Dress/dp/B0FHFXCFCP/",
+                "thumbnail": "https://m.media-amazon.com/images/I/51YQopC+6yL._AC_UL320_.jpg",
+                "price": "$39.99",
+                "extracted_price": 39.99,
+                "delivery":
+                [
+                    "$9.70 delivery Aug 4 - 8"
+                ]
+            }
+            ,
+            {
+                "position": 7,
+                "asin": "B0FCBQXF92",
+                "variants":
+                {
+                    "options":
+                    [
+                        {
+                            "position": 1,
+                            "asin": "B0FCBQXF92",
+                            "title": "Red",
+                            "link": "https://www.amazon.com/Round-Neck-Button-up-Dress-kj-9186-S%EF%BC%8CRed/dp/B0FCBQXF92/ref=is_sr_s_dp_1?dib=eyJ2IjoiMSJ9.f09nd5H3idgEaB7-FxcHRokKG38Juw8f4_BoHHQYEy6M__1GKQe4PTJ689SAz1NUS_7-aAQIO-59VUxz2JiZSwKEh1OkcIIa4sovV_wU_Lg1OJtn0xbMD3BmMxLFUT7u.tB0yl4anyVd7q38U2zWi2mAbFcO4C00FZsKSMSmWIOc&dib_tag=se&keywords=%5B%22clothing%22%2C+%22dress%22%2C+%22red%22%2C+%22comfortable%22%2C+%22fashion%22%2C+%22women%22%2C+%22apparel%22%2C+%22style%22%2C+%22b2c%22%2C+%22retail%22%5D&qid=1753198443&sr=8-7"
+                        }
+                        ,
+                        {
+                            "position": 2,
+                            "asin": "B0FCB815DK",
+                            "title": "Black",
+                            "link": "https://www.amazon.com/Round-Neck-Button-up-Dress-kj-9186-S%EF%BC%8CRed/dp/B0FCB815DK/ref=is_sr_s_dp_2?dib=eyJ2IjoiMSJ9.f09nd5H3idgEaB7-FxcHRokKG38Juw8f4_BoHHQYEy6M__1GKQe4PTJ689SAz1NUS_7-aAQIO-59VUxz2JiZSwKEh1OkcIIa4sovV_wU_Lg1OJtn0xbMD3BmMxLFUT7u.tB0yl4anyVd7q38U2zWi2mAbFcO4C00FZsKSMSmWIOc&dib_tag=se&keywords=%5B%22clothing%22%2C+%22dress%22%2C+%22red%22%2C+%22comfortable%22%2C+%22fashion%22%2C+%22women%22%2C+%22apparel%22%2C+%22style%22%2C+%22b2c%22%2C+%22retail%22%5D&qid=1753198443&sr=8-7"
+                        }
+                        ,
+                        {
+                            "position": 3,
+                            "asin": "B0FCBBJGDV",
+                            "title": "Blue",
+                            "link": "https://www.amazon.com/Round-Neck-Button-up-Dress-kj-9186-S%EF%BC%8CRed/dp/B0FCBBJGDV/ref=is_sr_s_dp_3?dib=eyJ2IjoiMSJ9.f09nd5H3idgEaB7-FxcHRokKG38Juw8f4_BoHHQYEy6M__1GKQe4PTJ689SAz1NUS_7-aAQIO-59VUxz2JiZSwKEh1OkcIIa4sovV_wU_Lg1OJtn0xbMD3BmMxLFUT7u.tB0yl4anyVd7q38U2zWi2mAbFcO4C00FZsKSMSmWIOc&dib_tag=se&keywords=%5B%22clothing%22%2C+%22dress%22%2C+%22red%22%2C+%22comfortable%22%2C+%22fashion%22%2C+%22women%22%2C+%22apparel%22%2C+%22style%22%2C+%22b2c%22%2C+%22retail%22%5D&qid=1753198443&sr=8-7"
+                        }
+                        ,
+                        {
+                            "position": 4,
+                            "asin": "B0FCBN8CSQ",
+                            "title": "Green",
+                            "link": "https://www.amazon.com/Round-Neck-Button-up-Dress-kj-9186-S%EF%BC%8CRed/dp/B0FCBN8CSQ/ref=is_sr_s_dp_4?dib=eyJ2IjoiMSJ9.f09nd5H3idgEaB7-FxcHRokKG38Juw8f4_BoHHQYEy6M__1GKQe4PTJ689SAz1NUS_7-aAQIO-59VUxz2JiZSwKEh1OkcIIa4sovV_wU_Lg1OJtn0xbMD3BmMxLFUT7u.tB0yl4anyVd7q38U2zWi2mAbFcO4C00FZsKSMSmWIOc&dib_tag=se&keywords=%5B%22clothing%22%2C+%22dress%22%2C+%22red%22%2C+%22comfortable%22%2C+%22fashion%22%2C+%22women%22%2C+%22apparel%22%2C+%22style%22%2C+%22b2c%22%2C+%22retail%22%5D&qid=1753198443&sr=8-7"
+                        }
+                        ,
+                        {
+                            "position": 5,
+                            "asin": "B0FCB4G3D6",
+                            "title": "Khaki",
+                            "link": "https://www.amazon.com/Round-Neck-Button-up-Dress-kj-9186-S%EF%BC%8CRed/dp/B0FCB4G3D6/ref=is_sr_s_dp_5?dib=eyJ2IjoiMSJ9.f09nd5H3idgEaB7-FxcHRokKG38Juw8f4_BoHHQYEy6M__1GKQe4PTJ689SAz1NUS_7-aAQIO-59VUxz2JiZSwKEh1OkcIIa4sovV_wU_Lg1OJtn0xbMD3BmMxLFUT7u.tB0yl4anyVd7q38U2zWi2mAbFcO4C00FZsKSMSmWIOc&dib_tag=se&keywords=%5B%22clothing%22%2C+%22dress%22%2C+%22red%22%2C+%22comfortable%22%2C+%22fashion%22%2C+%22women%22%2C+%22apparel%22%2C+%22style%22%2C+%22b2c%22%2C+%22retail%22%5D&qid=1753198443&sr=8-7"
+                        }
+                        ,
+                        {
+                            "position": 6,
+                            "asin": "B0FCBL8TS8",
+                            "title": "White",
+                            "link": "https://www.amazon.com/Round-Neck-Button-up-Dress-kj-9186-S%EF%BC%8CRed/dp/B0FCBL8TS8/ref=is_sr_s_dp_6?dib=eyJ2IjoiMSJ9.f09nd5H3idgEaB7-FxcHRokKG38Juw8f4_BoHHQYEy6M__1GKQe4PTJ689SAz1NUS_7-aAQIO-59VUxz2JiZSwKEh1OkcIIa4sovV_wU_Lg1OJtn0xbMD3BmMxLFUT7u.tB0yl4anyVd7q38U2zWi2mAbFcO4C00FZsKSMSmWIOc&dib_tag=se&keywords=%5B%22clothing%22%2C+%22dress%22%2C+%22red%22%2C+%22comfortable%22%2C+%22fashion%22%2C+%22women%22%2C+%22apparel%22%2C+%22style%22%2C+%22b2c%22%2C+%22retail%22%5D&qid=1753198443&sr=8-7"
+                        }
+                    ]
+                }
+                ,
+                "brand": "YK8fass",
+                "title": "Round-Neck Button-up Dress kj-9186",
+                "link": "https://www.amazon.com/Round-Neck-Button-up-Dress-kj-9186-S%EF%BC%8CRed/dp/B0FCBQXF92/ref=sr_1_7?dib=eyJ2IjoiMSJ9.f09nd5H3idgEaB7-FxcHRokKG38Juw8f4_BoHHQYEy6M__1GKQe4PTJ689SAz1NUS_7-aAQIO-59VUxz2JiZSwKEh1OkcIIa4sovV_wU_Lg1OJtn0xbMD3BmMxLFUT7u.tB0yl4anyVd7q38U2zWi2mAbFcO4C00FZsKSMSmWIOc&dib_tag=se&keywords=%5B%22clothing%22%2C+%22dress%22%2C+%22red%22%2C+%22comfortable%22%2C+%22fashion%22%2C+%22women%22%2C+%22apparel%22%2C+%22style%22%2C+%22b2c%22%2C+%22retail%22%5D&qid=1753198443&sr=8-7",
+                "link_clean": "https://www.amazon.com/Round-Neck-Button-up-Dress-kj-9186-S%EF%BC%8CRed/dp/B0FCBQXF92/",
+                "thumbnail": "https://m.media-amazon.com/images/I/51hbxmDUhRL._AC_UL320_.jpg",
+                "price": "$27.00",
+                "extracted_price": 27,
+                "delivery":
+                [
+                    "FREE delivery Aug 21 - Sep 2"
+                ]
+            }
+            ,
+            {
+                "position": 8,
+                "asin": "B07YN3FKSN",
+                "options": "See options",
+                "options_link": "https://www.amazon.com/Women-Comfy-Casual-Ethnic-X-Large/dp/B07YN3FKSN/ref=sr_1_8_so_DRESS?dib=eyJ2IjoiMSJ9.f09nd5H3idgEaB7-FxcHRokKG38Juw8f4_BoHHQYEy6M__1GKQe4PTJ689SAz1NUS_7-aAQIO-59VUxz2JiZSwKEh1OkcIIa4sovV_wU_Lg1OJtn0xbMD3BmMxLFUT7u.tB0yl4anyVd7q38U2zWi2mAbFcO4C00FZsKSMSmWIOc&dib_tag=se&keywords=%5B%22clothing%22%2C+%22dress%22%2C+%22red%22%2C+%22comfortable%22%2C+%22fashion%22%2C+%22women%22%2C+%22apparel%22%2C+%22style%22%2C+%22b2c%22%2C+%22retail%22%5D&qid=1753198443&sr=8-8",
+                "variants":
+                {
+                    "options":
+                    [
+                        {
+                            "position": 1,
+                            "asin": "B07YN3FKSN",
+                            "title": "Red",
+                            "link": "https://www.amazon.com/Women-Comfy-Casual-Ethnic-X-Large/dp/B07YN3FKSN/ref=is_sr_dp_1?dib=eyJ2IjoiMSJ9.f09nd5H3idgEaB7-FxcHRokKG38Juw8f4_BoHHQYEy6M__1GKQe4PTJ689SAz1NUS_7-aAQIO-59VUxz2JiZSwKEh1OkcIIa4sovV_wU_Lg1OJtn0xbMD3BmMxLFUT7u.tB0yl4anyVd7q38U2zWi2mAbFcO4C00FZsKSMSmWIOc&dib_tag=se&keywords=%5B%22clothing%22%2C+%22dress%22%2C+%22red%22%2C+%22comfortable%22%2C+%22fashion%22%2C+%22women%22%2C+%22apparel%22%2C+%22style%22%2C+%22b2c%22%2C+%22retail%22%5D&qid=1753198443&sr=8-8"
+                        }
+                        ,
+                        {
+                            "position": 2,
+                            "asin": "B07QHFSB6C",
+                            "title": "Black",
+                            "link": "https://www.amazon.com/Women-Comfy-Casual-Ethnic-X-Large/dp/B07QHFSB6C/ref=is_sr_s_dp_2?dib=eyJ2IjoiMSJ9.f09nd5H3idgEaB7-FxcHRokKG38Juw8f4_BoHHQYEy6M__1GKQe4PTJ689SAz1NUS_7-aAQIO-59VUxz2JiZSwKEh1OkcIIa4sovV_wU_Lg1OJtn0xbMD3BmMxLFUT7u.tB0yl4anyVd7q38U2zWi2mAbFcO4C00FZsKSMSmWIOc&dib_tag=se&keywords=%5B%22clothing%22%2C+%22dress%22%2C+%22red%22%2C+%22comfortable%22%2C+%22fashion%22%2C+%22women%22%2C+%22apparel%22%2C+%22style%22%2C+%22b2c%22%2C+%22retail%22%5D&qid=1753198443&sr=8-8"
+                        }
+                        ,
+                        {
+                            "position": 3,
+                            "asin": "B07YN41C1D",
+                            "title": "Light Pink",
+                            "link": "https://www.amazon.com/Women-Comfy-Casual-Ethnic-X-Large/dp/B07YN41C1D/ref=is_sr_s_dp_3?dib=eyJ2IjoiMSJ9.f09nd5H3idgEaB7-FxcHRokKG38Juw8f4_BoHHQYEy6M__1GKQe4PTJ689SAz1NUS_7-aAQIO-59VUxz2JiZSwKEh1OkcIIa4sovV_wU_Lg1OJtn0xbMD3BmMxLFUT7u.tB0yl4anyVd7q38U2zWi2mAbFcO4C00FZsKSMSmWIOc&dib_tag=se&keywords=%5B%22clothing%22%2C+%22dress%22%2C+%22red%22%2C+%22comfortable%22%2C+%22fashion%22%2C+%22women%22%2C+%22apparel%22%2C+%22style%22%2C+%22b2c%22%2C+%22retail%22%5D&qid=1753198443&sr=8-8"
+                        }
+                        ,
+                        {
+                            "position": 4,
+                            "asin": "B07YN3116L",
+                            "title": "Mink",
+                            "link": "https://www.amazon.com/Women-Comfy-Casual-Ethnic-X-Large/dp/B07YN3116L/ref=is_sr_s_dp_4?dib=eyJ2IjoiMSJ9.f09nd5H3idgEaB7-FxcHRokKG38Juw8f4_BoHHQYEy6M__1GKQe4PTJ689SAz1NUS_7-aAQIO-59VUxz2JiZSwKEh1OkcIIa4sovV_wU_Lg1OJtn0xbMD3BmMxLFUT7u.tB0yl4anyVd7q38U2zWi2mAbFcO4C00FZsKSMSmWIOc&dib_tag=se&keywords=%5B%22clothing%22%2C+%22dress%22%2C+%22red%22%2C+%22comfortable%22%2C+%22fashion%22%2C+%22women%22%2C+%22apparel%22%2C+%22style%22%2C+%22b2c%22%2C+%22retail%22%5D&qid=1753198443&sr=8-8"
+                        }
+                        ,
+                        {
+                            "position": 5,
+                            "asin": "B07YN43GKB",
+                            "title": "Rose",
+                            "link": "https://www.amazon.com/Women-Comfy-Casual-Ethnic-X-Large/dp/B07YN43GKB/ref=is_sr_s_dp_5?dib=eyJ2IjoiMSJ9.f09nd5H3idgEaB7-FxcHRokKG38Juw8f4_BoHHQYEy6M__1GKQe4PTJ689SAz1NUS_7-aAQIO-59VUxz2JiZSwKEh1OkcIIa4sovV_wU_Lg1OJtn0xbMD3BmMxLFUT7u.tB0yl4anyVd7q38U2zWi2mAbFcO4C00FZsKSMSmWIOc&dib_tag=se&keywords=%5B%22clothing%22%2C+%22dress%22%2C+%22red%22%2C+%22comfortable%22%2C+%22fashion%22%2C+%22women%22%2C+%22apparel%22%2C+%22style%22%2C+%22b2c%22%2C+%22retail%22%5D&qid=1753198443&sr=8-8"
+                        }
+                        ,
+                        {
+                            "position": 6,
+                            "asin": "B07YN3YMJG",
+                            "title": "Snow White",
+                            "link": "https://www.amazon.com/Women-Comfy-Casual-Ethnic-X-Large/dp/B07YN3YMJG/ref=is_sr_s_dp_6?dib=eyJ2IjoiMSJ9.f09nd5H3idgEaB7-FxcHRokKG38Juw8f4_BoHHQYEy6M__1GKQe4PTJ689SAz1NUS_7-aAQIO-59VUxz2JiZSwKEh1OkcIIa4sovV_wU_Lg1OJtn0xbMD3BmMxLFUT7u.tB0yl4anyVd7q38U2zWi2mAbFcO4C00FZsKSMSmWIOc&dib_tag=se&keywords=%5B%22clothing%22%2C+%22dress%22%2C+%22red%22%2C+%22comfortable%22%2C+%22fashion%22%2C+%22women%22%2C+%22apparel%22%2C+%22style%22%2C+%22b2c%22%2C+%22retail%22%5D&qid=1753198443&sr=8-8"
+                        }
+                    ]
+                    ,
+                    "more_variants": "+4",
+                    "more_variants_link": "https://www.amazon.com/Women-Comfy-Casual-Ethnic-X-Large/dp/B07YN3FKSN/ref=is_sr_dp_n?dib=eyJ2IjoiMSJ9.f09nd5H3idgEaB7-FxcHRokKG38Juw8f4_BoHHQYEy6M__1GKQe4PTJ689SAz1NUS_7-aAQIO-59VUxz2JiZSwKEh1OkcIIa4sovV_wU_Lg1OJtn0xbMD3BmMxLFUT7u.tB0yl4anyVd7q38U2zWi2mAbFcO4C00FZsKSMSmWIOc&dib_tag=se&keywords=%5B%22clothing%22%2C+%22dress%22%2C+%22red%22%2C+%22comfortable%22%2C+%22fashion%22%2C+%22women%22%2C+%22apparel%22%2C+%22style%22%2C+%22b2c%22%2C+%22retail%22%5D&qid=1753198443&sr=8-8"
+                }
+                ,
+                "brand": "Sabrina goodnight",
+                "title": "Women Nightgown Soft Sleepwear Nightshirt Casual Loungewear Sleep Shirts",
+                "link": "https://www.amazon.com/Women-Comfy-Casual-Ethnic-X-Large/dp/B07YN3FKSN/ref=sr_1_8?dib=eyJ2IjoiMSJ9.f09nd5H3idgEaB7-FxcHRokKG38Juw8f4_BoHHQYEy6M__1GKQe4PTJ689SAz1NUS_7-aAQIO-59VUxz2JiZSwKEh1OkcIIa4sovV_wU_Lg1OJtn0xbMD3BmMxLFUT7u.tB0yl4anyVd7q38U2zWi2mAbFcO4C00FZsKSMSmWIOc&dib_tag=se&keywords=%5B%22clothing%22%2C+%22dress%22%2C+%22red%22%2C+%22comfortable%22%2C+%22fashion%22%2C+%22women%22%2C+%22apparel%22%2C+%22style%22%2C+%22b2c%22%2C+%22retail%22%5D&qid=1753198443&sr=8-8",
+                "link_clean": "https://www.amazon.com/Women-Comfy-Casual-Ethnic-X-Large/dp/B07YN3FKSN/",
+                "thumbnail": "https://m.media-amazon.com/images/I/81BDnPVd1kL._AC_UL320_.jpg",
+                "rating": 4.3,
+                "reviews": 15
+            }
+            ,
+            {
+                "position": 9,
+                "asin": "B0CY364TJ5",
+                "options": "See options",
+                "options_link": "https://www.amazon.com/Printing-Sleeved-Regular-Fragmented-Ruffled/dp/B0CY364TJ5/ref=sr_1_9_so_DRESS?dib=eyJ2IjoiMSJ9.f09nd5H3idgEaB7-FxcHRokKG38Juw8f4_BoHHQYEy6M__1GKQe4PTJ689SAz1NUS_7-aAQIO-59VUxz2JiZSwKEh1OkcIIa4sovV_wU_Lg1OJtn0xbMD3BmMxLFUT7u.tB0yl4anyVd7q38U2zWi2mAbFcO4C00FZsKSMSmWIOc&dib_tag=se&keywords=%5B%22clothing%22%2C+%22dress%22%2C+%22red%22%2C+%22comfortable%22%2C+%22fashion%22%2C+%22women%22%2C+%22apparel%22%2C+%22style%22%2C+%22b2c%22%2C+%22retail%22%5D&qid=1753198443&sr=8-9",
+                "variants":
+                {
+                    "options":
+                    [
+                        {
+                            "position": 1,
+                            "asin": "B0CY364TJ5",
+                            "title": "- 9. Fragmented Floral Print, V-neck, Ruffled Edge, Large Hem Long Dress 4.red",
+                            "link": "https://www.amazon.com/Printing-Sleeved-Regular-Fragmented-Ruffled/dp/B0CY364TJ5/ref=is_sr_dp_1?dib=eyJ2IjoiMSJ9.f09nd5H3idgEaB7-FxcHRokKG38Juw8f4_BoHHQYEy6M__1GKQe4PTJ689SAz1NUS_7-aAQIO-59VUxz2JiZSwKEh1OkcIIa4sovV_wU_Lg1OJtn0xbMD3BmMxLFUT7u.tB0yl4anyVd7q38U2zWi2mAbFcO4C00FZsKSMSmWIOc&dib_tag=se&keywords=%5B%22clothing%22%2C+%22dress%22%2C+%22red%22%2C+%22comfortable%22%2C+%22fashion%22%2C+%22women%22%2C+%22apparel%22%2C+%22style%22%2C+%22b2c%22%2C+%22retail%22%5D&qid=1753198443&sr=8-9"
+                        }
+                        ,
+                        {
+                            "position": 2,
+                            "asin": "B0CY37V4L4",
+                            "title": "- 1. Leopard Print, V-neck, Ruffle Edge, Tie Up, Large Hem Dress 1.green",
+                            "link": "https://www.amazon.com/Printing-Sleeved-Regular-Fragmented-Ruffled/dp/B0CY37V4L4/ref=is_sr_dp_2?dib=eyJ2IjoiMSJ9.f09nd5H3idgEaB7-FxcHRokKG38Juw8f4_BoHHQYEy6M__1GKQe4PTJ689SAz1NUS_7-aAQIO-59VUxz2JiZSwKEh1OkcIIa4sovV_wU_Lg1OJtn0xbMD3BmMxLFUT7u.tB0yl4anyVd7q38U2zWi2mAbFcO4C00FZsKSMSmWIOc&dib_tag=se&keywords=%5B%22clothing%22%2C+%22dress%22%2C+%22red%22%2C+%22comfortable%22%2C+%22fashion%22%2C+%22women%22%2C+%22apparel%22%2C+%22style%22%2C+%22b2c%22%2C+%22retail%22%5D&qid=1753198443&sr=8-9"
+                        }
+                        ,
+                        {
+                            "position": 3,
+                            "asin": "B0CY2ZKM42",
+                            "title": "- 1. Leopard Print, V-neck, Ruffle Edge, Tie Up, Large Hem Dress 2.blue",
+                            "link": "https://www.amazon.com/Printing-Sleeved-Regular-Fragmented-Ruffled/dp/B0CY2ZKM42/ref=is_sr_dp_3?dib=eyJ2IjoiMSJ9.f09nd5H3idgEaB7-FxcHRokKG38Juw8f4_BoHHQYEy6M__1GKQe4PTJ689SAz1NUS_7-aAQIO-59VUxz2JiZSwKEh1OkcIIa4sovV_wU_Lg1OJtn0xbMD3BmMxLFUT7u.tB0yl4anyVd7q38U2zWi2mAbFcO4C00FZsKSMSmWIOc&dib_tag=se&keywords=%5B%22clothing%22%2C+%22dress%22%2C+%22red%22%2C+%22comfortable%22%2C+%22fashion%22%2C+%22women%22%2C+%22apparel%22%2C+%22style%22%2C+%22b2c%22%2C+%22retail%22%5D&qid=1753198443&sr=8-9"
+                        }
+                        ,
+                        {
+                            "position": 4,
+                            "asin": "B0CY31CX6G",
+                            "title": "- 1. Leopard Print, V-neck, Ruffle Edge, Tie Up, Large Hem Dress 3.sunflower Black Background",
+                            "link": "https://www.amazon.com/Printing-Sleeved-Regular-Fragmented-Ruffled/dp/B0CY31CX6G/ref=is_sr_dp_4?dib=eyJ2IjoiMSJ9.f09nd5H3idgEaB7-FxcHRokKG38Juw8f4_BoHHQYEy6M__1GKQe4PTJ689SAz1NUS_7-aAQIO-59VUxz2JiZSwKEh1OkcIIa4sovV_wU_Lg1OJtn0xbMD3BmMxLFUT7u.tB0yl4anyVd7q38U2zWi2mAbFcO4C00FZsKSMSmWIOc&dib_tag=se&keywords=%5B%22clothing%22%2C+%22dress%22%2C+%22red%22%2C+%22comfortable%22%2C+%22fashion%22%2C+%22women%22%2C+%22apparel%22%2C+%22style%22%2C+%22b2c%22%2C+%22retail%22%5D&qid=1753198443&sr=8-9"
+                        }
+                        ,
+                        {
+                            "position": 5,
+                            "asin": "B0CY3KWP7H",
+                            "title": "- 2. Checkered Color Matching, Shirt Collar, and Waistband 1.black and White Checkerboard",
+                            "link": "https://www.amazon.com/Printing-Sleeved-Regular-Fragmented-Ruffled/dp/B0CY3KWP7H/ref=is_sr_dp_5?dib=eyJ2IjoiMSJ9.f09nd5H3idgEaB7-FxcHRokKG38Juw8f4_BoHHQYEy6M__1GKQe4PTJ689SAz1NUS_7-aAQIO-59VUxz2JiZSwKEh1OkcIIa4sovV_wU_Lg1OJtn0xbMD3BmMxLFUT7u.tB0yl4anyVd7q38U2zWi2mAbFcO4C00FZsKSMSmWIOc&dib_tag=se&keywords=%5B%22clothing%22%2C+%22dress%22%2C+%22red%22%2C+%22comfortable%22%2C+%22fashion%22%2C+%22women%22%2C+%22apparel%22%2C+%22style%22%2C+%22b2c%22%2C+%22retail%22%5D&qid=1753198443&sr=8-9"
+                        }
+                        ,
+                        {
+                            "position": 6,
+                            "asin": "B0CY3NSR6W",
+                            "title": "- 2. Checkered Color Matching, Shirt Collar, and Waistband 2.blue Grid",
+                            "link": "https://www.amazon.com/Printing-Sleeved-Regular-Fragmented-Ruffled/dp/B0CY3NSR6W/ref=is_sr_dp_6?dib=eyJ2IjoiMSJ9.f09nd5H3idgEaB7-FxcHRokKG38Juw8f4_BoHHQYEy6M__1GKQe4PTJ689SAz1NUS_7-aAQIO-59VUxz2JiZSwKEh1OkcIIa4sovV_wU_Lg1OJtn0xbMD3BmMxLFUT7u.tB0yl4anyVd7q38U2zWi2mAbFcO4C00FZsKSMSmWIOc&dib_tag=se&keywords=%5B%22clothing%22%2C+%22dress%22%2C+%22red%22%2C+%22comfortable%22%2C+%22fashion%22%2C+%22women%22%2C+%22apparel%22%2C+%22style%22%2C+%22b2c%22%2C+%22retail%22%5D&qid=1753198443&sr=8-9"
+                        }
+                    ]
+                    ,
+                    "more_variants": "+24",
+                    "more_variants_link": "https://www.amazon.com/Printing-Sleeved-Regular-Fragmented-Ruffled/dp/B0CY364TJ5/ref=is_sr_dp_n?dib=eyJ2IjoiMSJ9.f09nd5H3idgEaB7-FxcHRokKG38Juw8f4_BoHHQYEy6M__1GKQe4PTJ689SAz1NUS_7-aAQIO-59VUxz2JiZSwKEh1OkcIIa4sovV_wU_Lg1OJtn0xbMD3BmMxLFUT7u.tB0yl4anyVd7q38U2zWi2mAbFcO4C00FZsKSMSmWIOc&dib_tag=se&keywords=%5B%22clothing%22%2C+%22dress%22%2C+%22red%22%2C+%22comfortable%22%2C+%22fashion%22%2C+%22women%22%2C+%22apparel%22%2C+%22style%22%2C+%22b2c%22%2C+%22retail%22%5D&qid=1753198443&sr=8-9"
+                }
+                ,
+                "brand": "Generic",
+                "title": "Printing Short Sleeved Dress",
+                "link": "https://www.amazon.com/Printing-Sleeved-Regular-Fragmented-Ruffled/dp/B0CY364TJ5/ref=sr_1_9?dib=eyJ2IjoiMSJ9.f09nd5H3idgEaB7-FxcHRokKG38Juw8f4_BoHHQYEy6M__1GKQe4PTJ689SAz1NUS_7-aAQIO-59VUxz2JiZSwKEh1OkcIIa4sovV_wU_Lg1OJtn0xbMD3BmMxLFUT7u.tB0yl4anyVd7q38U2zWi2mAbFcO4C00FZsKSMSmWIOc&dib_tag=se&keywords=%5B%22clothing%22%2C+%22dress%22%2C+%22red%22%2C+%22comfortable%22%2C+%22fashion%22%2C+%22women%22%2C+%22apparel%22%2C+%22style%22%2C+%22b2c%22%2C+%22retail%22%5D&qid=1753198443&sr=8-9",
+                "link_clean": "https://www.amazon.com/Printing-Sleeved-Regular-Fragmented-Ruffled/dp/B0CY364TJ5/",
+                "thumbnail": "https://m.media-amazon.com/images/I/81GBigFqZWL._AC_UL320_.jpg"
+            }
+            ,
+            {
+                "position": 10,
+                "asin": "B0BWLH931L",
+                "sponsored": true,
+                "variants":
+                {
+                    "more_variants": "+31 other colors/patterns",
+                    "more_variants_link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo4MzE2ODk2NzY0ODAxOTY1OjE3NTMxOTg0NDM6c3BfbXRmOjMwMDIxMDc1MjQzOTgwMjo6MDo6&url=%2FWkior-Womens-Dresses-Elegant-Summer%2Fdp%2FB0BWLH931L%2Fref%3Dsr_1_10_sspa%3Fdib%3DeyJ2IjoiMSJ9.f09nd5H3idgEaB7-FxcHRokKG38Juw8f4_BoHHQYEy6M__1GKQe4PTJ689SAz1NUS_7-aAQIO-59VUxz2JiZSwKEh1OkcIIa4sovV_wU_Lg1OJtn0xbMD3BmMxLFUT7u.tB0yl4anyVd7q38U2zWi2mAbFcO4C00FZsKSMSmWIOc%26dib_tag%3Dse%26keywords%3D%255B%2522clothing%2522%252C%2B%2522dress%2522%252C%2B%2522red%2522%252C%2B%2522comfortable%2522%252C%2B%2522fashion%2522%252C%2B%2522women%2522%252C%2B%2522apparel%2522%252C%2B%2522style%2522%252C%2B%2522b2c%2522%252C%2B%2522retail%2522%255D%26qid%3D1753198443%26sr%3D8-10-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9tdGY%26psc%3D1"
+                }
+                ,
+                "brand": "Wkior",
+                "title": "Shift Dress for Women V Neck Short Sleeves Solid Color Casual Flowy Summer Dresses(S-2XL)",
+                "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo4MzE2ODk2NzY0ODAxOTY1OjE3NTMxOTg0NDM6c3BfbXRmOjMwMDIxMDc1MjQzOTgwMjo6MDo6&url=%2FWkior-Womens-Dresses-Elegant-Summer%2Fdp%2FB0BWLH931L%2Fref%3Dsr_1_10_sspa%3Fdib%3DeyJ2IjoiMSJ9.f09nd5H3idgEaB7-FxcHRokKG38Juw8f4_BoHHQYEy6M__1GKQe4PTJ689SAz1NUS_7-aAQIO-59VUxz2JiZSwKEh1OkcIIa4sovV_wU_Lg1OJtn0xbMD3BmMxLFUT7u.tB0yl4anyVd7q38U2zWi2mAbFcO4C00FZsKSMSmWIOc%26dib_tag%3Dse%26keywords%3D%255B%2522clothing%2522%252C%2B%2522dress%2522%252C%2B%2522red%2522%252C%2B%2522comfortable%2522%252C%2B%2522fashion%2522%252C%2B%2522women%2522%252C%2B%2522apparel%2522%252C%2B%2522style%2522%252C%2B%2522b2c%2522%252C%2B%2522retail%2522%255D%26qid%3D1753198443%26sr%3D8-10-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9tdGY%26psc%3D1",
+                "link_clean": "https://www.amazon.com/dp/B0BWLH931L/",
+                "thumbnail": "https://m.media-amazon.com/images/I/61-Di0a3qsL._AC_UL320_.jpg",
+                "rating": 4.1,
+                "reviews": 5017,
+                "price": "$37.99",
+                "extracted_price": 37.99,
+                "delivery":
+                [
+                    "FREE delivery Sun, Jul 27",
+                    "Or fastest delivery Tomorrow, Jul 23"
+                ]
+            }
+            ,
+            {
+                "position": 11,
+                "asin": "B0BF5T2BNT",
+                "sponsored": true,
+                "variants":
+                {
+                    "more_variants": "+19 other colors/patterns",
+                    "more_variants_link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo4MzE2ODk2NzY0ODAxOTY1OjE3NTMxOTg0NDM6c3BfbXRmOjMwMDAwNDM3MjM0NDYwMjo6MDo6&url=%2FChurch-Dresses-Sleeve-Bodycon-Vintage%2Fdp%2FB0BF5T2BNT%2Fref%3Dsr_1_11_sspa%3Fdib%3DeyJ2IjoiMSJ9.f09nd5H3idgEaB7-FxcHRokKG38Juw8f4_BoHHQYEy6M__1GKQe4PTJ689SAz1NUS_7-aAQIO-59VUxz2JiZSwKEh1OkcIIa4sovV_wU_Lg1OJtn0xbMD3BmMxLFUT7u.tB0yl4anyVd7q38U2zWi2mAbFcO4C00FZsKSMSmWIOc%26dib_tag%3Dse%26keywords%3D%255B%2522clothing%2522%252C%2B%2522dress%2522%252C%2B%2522red%2522%252C%2B%2522comfortable%2522%252C%2B%2522fashion%2522%252C%2B%2522women%2522%252C%2B%2522apparel%2522%252C%2B%2522style%2522%252C%2B%2522b2c%2522%252C%2B%2522retail%2522%255D%26qid%3D1753198443%26sr%3D8-11-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9tdGY%26psc%3D1"
+                }
+                ,
+                "brand": "Yajedo",
+                "title": "Church Dresses for Women 3/4 Sleeve Bodycon Ruffle Vintage Wear to Work Pencil Midi Dress",
+                "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo4MzE2ODk2NzY0ODAxOTY1OjE3NTMxOTg0NDM6c3BfbXRmOjMwMDAwNDM3MjM0NDYwMjo6MDo6&url=%2FChurch-Dresses-Sleeve-Bodycon-Vintage%2Fdp%2FB0BF5T2BNT%2Fref%3Dsr_1_11_sspa%3Fdib%3DeyJ2IjoiMSJ9.f09nd5H3idgEaB7-FxcHRokKG38Juw8f4_BoHHQYEy6M__1GKQe4PTJ689SAz1NUS_7-aAQIO-59VUxz2JiZSwKEh1OkcIIa4sovV_wU_Lg1OJtn0xbMD3BmMxLFUT7u.tB0yl4anyVd7q38U2zWi2mAbFcO4C00FZsKSMSmWIOc%26dib_tag%3Dse%26keywords%3D%255B%2522clothing%2522%252C%2B%2522dress%2522%252C%2B%2522red%2522%252C%2B%2522comfortable%2522%252C%2B%2522fashion%2522%252C%2B%2522women%2522%252C%2B%2522apparel%2522%252C%2B%2522style%2522%252C%2B%2522b2c%2522%252C%2B%2522retail%2522%255D%26qid%3D1753198443%26sr%3D8-11-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9tdGY%26psc%3D1",
+                "link_clean": "https://www.amazon.com/dp/B0BF5T2BNT/",
+                "thumbnail": "https://m.media-amazon.com/images/I/61MZ1rcsytL._AC_UL320_.jpg",
+                "rating": 4.2,
+                "reviews": 4125,
+                "price": "$35.99",
+                "extracted_price": 35.99,
+                "delivery":
+                [
+                    "FREE delivery Sun, Jul 27",
+                    "Or fastest delivery Tomorrow, Jul 23"
+                ]
+            }
+            ,
+            {
+                "position": 12,
+                "asin": "B07PVBDZ8Z",
+                "sponsored": true,
+                "badges":
+                [
+                    "Limited time deal"
+                ]
+                ,
+                "variants":
+                {
+                    "more_variants": "+24 other colors/patterns",
+                    "more_variants_link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo4MzE2ODk2NzY0ODAxOTY1OjE3NTMxOTg0NDM6c3BfbXRmOjMwMDcwMTk0ODYwNjEwMjo6MDo6&url=%2FFeager-Womens-Casual-Striped-Pockets%2Fdp%2FB07PVBDZ8Z%2Fref%3Dsr_1_12_sspa%3Fdib%3DeyJ2IjoiMSJ9.f09nd5H3idgEaB7-FxcHRokKG38Juw8f4_BoHHQYEy6M__1GKQe4PTJ689SAz1NUS_7-aAQIO-59VUxz2JiZSwKEh1OkcIIa4sovV_wU_Lg1OJtn0xbMD3BmMxLFUT7u.tB0yl4anyVd7q38U2zWi2mAbFcO4C00FZsKSMSmWIOc%26dib_tag%3Dse%26keywords%3D%255B%2522clothing%2522%252C%2B%2522dress%2522%252C%2B%2522red%2522%252C%2B%2522comfortable%2522%252C%2B%2522fashion%2522%252C%2B%2522women%2522%252C%2B%2522apparel%2522%252C%2B%2522style%2522%252C%2B%2522b2c%2522%252C%2B%2522retail%2522%255D%26qid%3D1753198443%26sr%3D8-12-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9tdGY%26psc%3D1"
+                }
+                ,
+                "brand": "Feager",
+                "title": "Women's Casual Striped Criss Cross Short Sleeve T Shirt Dress",
+                "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo4MzE2ODk2NzY0ODAxOTY1OjE3NTMxOTg0NDM6c3BfbXRmOjMwMDcwMTk0ODYwNjEwMjo6MDo6&url=%2FFeager-Womens-Casual-Striped-Pockets%2Fdp%2FB07PVBDZ8Z%2Fref%3Dsr_1_12_sspa%3Fdib%3DeyJ2IjoiMSJ9.f09nd5H3idgEaB7-FxcHRokKG38Juw8f4_BoHHQYEy6M__1GKQe4PTJ689SAz1NUS_7-aAQIO-59VUxz2JiZSwKEh1OkcIIa4sovV_wU_Lg1OJtn0xbMD3BmMxLFUT7u.tB0yl4anyVd7q38U2zWi2mAbFcO4C00FZsKSMSmWIOc%26dib_tag%3Dse%26keywords%3D%255B%2522clothing%2522%252C%2B%2522dress%2522%252C%2B%2522red%2522%252C%2B%2522comfortable%2522%252C%2B%2522fashion%2522%252C%2B%2522women%2522%252C%2B%2522apparel%2522%252C%2B%2522style%2522%252C%2B%2522b2c%2522%252C%2B%2522retail%2522%255D%26qid%3D1753198443%26sr%3D8-12-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9tdGY%26psc%3D1",
+                "link_clean": "https://www.amazon.com/dp/B07PVBDZ8Z/",
+                "thumbnail": "https://m.media-amazon.com/images/I/71Dtf+hmc8L._AC_UL320_.jpg",
+                "rating": 4.2,
+                "reviews": 5856,
+                "price": "$21.83",
+                "extracted_price": 21.83,
+                "old_price": "$25.99",
+                "extracted_old_price": 25.99,
+                "delivery":
+                [
+                    "FREE delivery Sun, Jul 27 on $35 of items shipped by Amazon",
+                    "Or fastest delivery Thu, Jul 24"
+                ]
+            }
+            ,
+            {
+                "position": 13,
+                "asin": "B01AA6PVA2",
+                "sponsored": true,
+                "brand": "DEARCASE",
+                "title": "Women's Modern/Fitted",
+                "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo4MzE2ODk2NzY0ODAxOTY1OjE3NTMxOTg0NDM6c3BfYnRmOjMwMDY5MTY2NzI4NjAwMjo6MDo6&url=%2FDEARCASE-T-Shirt-Wedding-Stretch-Sweater%2Fdp%2FB01AA6PVA2%2Fref%3Dsr_1_13_sspa%3Fdib%3DeyJ2IjoiMSJ9.f09nd5H3idgEaB7-FxcHRokKG38Juw8f4_BoHHQYEy6M__1GKQe4PTJ689SAz1NUS_7-aAQIO-59VUxz2JiZSwKEh1OkcIIa4sovV_wU_Lg1OJtn0xbMD3BmMxLFUT7u.tB0yl4anyVd7q38U2zWi2mAbFcO4C00FZsKSMSmWIOc%26dib_tag%3Dse%26keywords%3D%255B%2522clothing%2522%252C%2B%2522dress%2522%252C%2B%2522red%2522%252C%2B%2522comfortable%2522%252C%2B%2522fashion%2522%252C%2B%2522women%2522%252C%2B%2522apparel%2522%252C%2B%2522style%2522%252C%2B%2522b2c%2522%252C%2B%2522retail%2522%255D%26qid%3D1753198443%26sr%3D8-13-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9idGY%26psc%3D1",
+                "link_clean": "https://www.amazon.com/dp/B01AA6PVA2/",
+                "thumbnail": "https://m.media-amazon.com/images/I/61E9ylyFc5L._AC_UL320_.jpg",
+                "rating": 4.1,
+                "reviews": 2178,
+                "price": "$19.99",
+                "extracted_price": 19.99,
+                "delivery":
+                [
+                    "FREE delivery Sun, Jul 27 on $35 of items shipped by Amazon",
+                    "Or fastest delivery Tomorrow, Jul 23"
+                ]
+            }
+        ]
+        ,
+        "video_results":
+        [
+            {
+                "block_position": "top",
+                "video_thumbnail": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/fb4ae221-48a9-42a7-9eb3-9c0fca370ea7.mp4/r/THUMBNAIL_360P_FRAME_3_CAPTURE_2.JPG",
+                "video_src": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/fb4ae221-48a9-42a7-9eb3-9c0fca370ea7.mp4/productVideoOptimized.mp4",
+                "video_link": "https://aax-us-iad.amazon.com/x/c/JKrLgC5jsSQ_FcOCzPVpKgQAAAGYMsU9JgEAAAH2AQBvbm9fdHhuX2JpZDMgICBvbm9fdHhuX2ltcDEgICDsETX5/clv1_CEuOPUxokZA0iHrVQ_ww6gbVZ2BZfuoLq8sj0G219Ppf4X8ChQumFv018nHz9hvWjq0yzpNb3XTPsunPyWYceVF4Kgi1E-3jMW1dWF4tb37wI4VllxYOLZEdHEeppYemXJOUalC7tdMeWEwmgVz7bV1AckwCRMN0CRVmUax7QwuP3u3MgFIzS1q5d5TuNOspGHpbasDVlJ1bT2hxC9tUMuUFm8yvmtV0DgjzOKVy-i0Vs7d2vLK7GWsuqRqJ-0hcN3jpMffPnUdL6EdDGtZaMjOYRyGXghLNCd7m6b_pSZUgD1ig-I6A-jeRfQnKKKz6_s4I4N0zTfLiu5vmAuuOLPlL0dF_BRcZlpU4wfVsPpln11Z5KUuB8SGc0MshUWDhaQ9F1WCRkn8ppSr1AoykS24BZM7zucVmVbcmG3VHnlJ_MfhRt19KAG1Hvpd3Q2koAbqwPfPKm_u0cBUSbzW9h64seRWsqluyb3Ntfr0lnYSUFltD_aimrxjndUtzPorrnvZ40wtDKa0unBuDhQ2HzTTvcRl2QnddGximBg3wEK3_Lx68CwRd3khEWEv4Sj_iavomu_54Xjy4jKdeicYpBDSaDgNozSlg2fwasLeDvB86l6-_4pY7dnHQ5RalU4_mLkw-WfUSIkd88c1XBr9uqRI3w7TRLiQlcUY8qs5_8JwxCnwmXR2BkV0bjSL5cOFZ4ykO1H14zJAdxNYjFCqMEWQwzunsb8rg-6DtfH8mBAD3rg_yTIxg3jVp7sUbZebOsohNRwPjjlDD3Dj4AXXHMiM9mgf6U1Vonf5Ma8pQYAqY_FQxM-tOuhtjtp6VS0SDfseZTCxHywHvvvFSUP9nl5Kdi14gz8umG-K2g9_7iEmR3X3ByXUu-Dbkkl60lSf7gqAGj-x8kTzxIdALe9omEPuZjZGw-ClVFyQ3FCPKlXP4oi51PFIfOXlYeE7v2UKhkzS6d-vvxNCSrN79xxi4B6FeBLyaRIXQyU2yVR5Aa9oFfBJ5QEtdS4r97FPnK1UDBguuqLdW_lMQarIg05CIlj5OmA5ZCuqZmGwj0qRC6HhqfWPgcqv0bBHPeYtfJtFaZ12earvLPig6TIO6V8fdnNHGeTvun7ttfs0lAwtAOamSDGmiIORDunxoFq-MuO71sOEmWvLntCg7IMUWm2ogOFgaBcvIKUTeKLk9tYf-lbeu2Sel5l3XspMu0glPUdUsHiO3LVj55GG_bDYClwfjDO-mtJpi5J9O8TyKx65jFGHCME8ySX6e6FqGnhkLIIH4coALkNyNaGT_F_NxUrUt9GIG4pFejYWn9SS2l3mEObf5dM5JQ8To2uYLj2ahqps4HYRufx6Y3Ef4ocN1Z3MF5qrvveIYoWFbd-9KP9Z9htsYqEOTOguRt_e1F3azeolGLhzueU3wdgLFZAIybKWlb6e7mxmgbExt95ZVn83_mH5INlJy064AHMwtPh7BNDicyHYsBHzEobiisyjFGgfOXlPi1zS9c-o2xccSz_AF92kRlUHdKHuxO3t72Ksyu_GcvCXSQiISVdtkM6_gRYUeGzzJg-b0HHiBC0ejc6g4kp6mzt2awKGPY4lkM44zgNdrRJ3vN3m35J7cTfPwBm0QZh1Ow-bh47s67rburGLs7YafUG3sPxrwgh9t5ltsaLqheQjhA1Pp_b8afCSOphJqz6YfHzXbSUk7MoVPtukAc--nL-YgsYnWTVwp0cyZptnkrP1bKp-mvUZmh1ORlJURPgLF2y1-tXacnoF0IQPB7ACdtNP999EudaRl_2TGMPMhh7UXzzuXgepaDqoxWIcaxnMuPs3HmG3ISMWcPwPQqrWRE6ibzbougN0IU6SZvtsmngEDXc57Lb0MoNbgAETLVIyriqluTpGgYOhybxJPvRxIl8rVBIeJololYrGK98sUsvbxaidi6JOj_iBKQiPPLsO6k3Rgw81ZbuedrYIUkSo_HjQ0x5fFXJ0V4SWhKSJFh6PiE0kQNJu4-8WSHMIqoPE4FFXXv_DvMl267bMk7MWQ9fC2pgFQc9Y0cJ8vnrRVHK4IUgoDBNJR_Q8n0KWG75W_geU3PsKjXfspfpJ5Le0PgI9WIUAUbPdx3nMjXJia_XVeNR5kEM_0f32WUzb3KXRvW87r8P3oHK5M1UYOUN2KPeA2awz8fLAqxqQnu0ijUw4KvQ5uHG0wYM3KW8iehl3tOp-UxB4atkWDV5Vcg9hMT_M5t3--sk1H9jSrUYlQ3SC1/https://www.amazon.com/dp/B0CQQ8NXJ1?pd_rd_i=B0CQQ8NXJ1&pf_rd_p=c8b39f81-ded8-4d75-80c2-6dfa03cbb699&pf_rd_r=YZ00MWS5YEN8N07CZQV2&pd_rd_wg=RG7uf&pd_rd_w=0mPCj&pd_rd_r=10ba88c0-9e50-4cc6-90b7-b2de548a59a4",
+                "products":
+                [
+                    {
+                        "position": 1,
+                        "asin": "B0CQQ8NXJ1",
+                        "sponsored": true,
+                        "badges":
+                        [
+                            "Limited time deal"
+                        ]
+                        ,
+                        "title": "PRETTYGARDEN Women's Summer Flowy Maxi Dress Casual Cap Sleeve V Neck Smocked Beach Sundress",
+                        "link": "https://aax-us-iad.amazon.com/x/c/JKrLgC5jsSQ_FcOCzPVpKgQAAAGYMsU9JgEAAAH2AQBvbm9fdHhuX2JpZDMgICBvbm9fdHhuX2ltcDEgICDsETX5/clv1_CEuOPUxokZA0iHrVQ_ww6gbVZ2BZfuoLq8sj0G219Ppf4X8ChQumFv018nHz9hvWjq0yzpNb3XTPsunPyWYceVF4Kgi1E-3jMW1dWF4tb37wI4VllxYOLZEdHEeppYemXJOUalC7tdMeWEwmgVz7bV1AckwCRMN0CRVmUax7QwuP3u3MgFIzS1q5d5TuNOspGHpbasDVlJ1bT2hxC9tUMuUFm8yvmtV0DgjzOKVy-i0Vs7d2vLK7GWsuqRqJ-0hcN3jpMffPnUdL6EdDGtZaMjOYRyGXghLNCd7m6b_pSZUgD1ig-I6A-jeRfQnKKKz6_s4I4N0zTfLiu5vmAuuOLPlL0dF_BRcZlpU4wfVsPpln11Z5KUuB8SGc0MshUWDhaQ9F1WCRkn8ppSr1AoykS24BZM7zucVmVbcmG3VHnlJ_MfhRt19KAG1Hvpd3Q2koAbqwPfPKm_u0cBUSbzW9h64seRWsqluyb3Ntfr0lnYSUFltD_aimrxjndUtzPorrnvZ40wtDKa0unBuDhQ2HzTTvcRl2QnddGximBg3wEK3_Lx68CwRd3khEWEv4Sj_iavomu_54Xjy4jKdeicYpBDSaDgNozSlg2fwasLeDvB86l6-_4pY7dnHQ5RalU4_mLkw-WfUSIkd88c1XBr9uqRI3w7TRLiQlcUY8qs5_8JwxCnwmXR2BkV0bjSL5cOFZ4ykO1H14zJAdxNYjFCqMEWQwzunsb8rg-6DtfH8mBAD3rg_yTIxg3jVp7sUbZebOsohNRwPjjlDD3Dj4AXXHMiM9mgf6U1Vonf5Ma8pQYAqY_FQxM-tOuhtjtp6VS0SDfseZTCxHywHvvvFSUP9nl5Kdi14gz8umG-K2g9_7iEmR3X3ByXUu-Dbkkl60lSf7gqAGj-x8kTzxIdALe9omEPuZjZGw-ClVFyQ3FCPKlXP4oi51PFIfOXlYeE7v2UKhkzS6d-vvxNCSrN79xxi4B6FeBLyaRIXQyU2yVR5Aa9oFfBJ5QEtdS4r97FPnK1UDBguuqLdW_lMQarIg05CIlj5OmA5ZCuqZmGwj0qRC6HhqfWPgcqv0bBHPeYtfJtFaZ12earvLPig6TIO6V8fdnNHGeTvun7ttfs0lAwtAOamSDGmiIORDunxoFq-MuO71sOEmWvLntCg7IMUWm2ogOFgaBcvIKUTeKLk9tYf-lbeu2Sel5l3XspMu0glPUdUsHiO3LVj55GG_bDYClwfjDO-mtJpi5J9O8TyKx65jFGHCME8ySX6e6FqGnhkLIIH4coALkNyNaGT_F_NxUrUt9GIG4pFejYWn9SS2l3mEObf5dM5JQ8To2uYLj2ahqps4HYRufx6Y3Ef4ocN1Z3MF5qrvveIYoWFbd-9KP9Z9htsYqEOTOguRt_e1F3azeolGLhzueU3wdgLFZAIybKWlb6e7mxmgbExt95ZVn83_mH5INlJy064AHMwtPh7BNDicyHYsBHzEobiisyjFGgfOXlPi1zS9c-o2xccSz_AF92kRlUHdKHuxO3t72Ksyu_GcvCXSQiISVdtkM6_gRYUeGzzJg-b0HHiBC0ejc6g4kp6mzt2awKGPY4lkM44zgNdrRJ3vN3m35J7cTfPwBm0QZh1Ow-bh47s67rburGLs7YafUG3sPxrwgh9t5ltsaLqheQjhA1Pp_b8afCSOphJqz6YfHzXbSUk7MoVPtukAc--nL-YgsYnWTVwp0cyZptnkrP1bKp-mvUZmh1ORlJURPgLF2y1-tXacnoF0IQPB7ACdtNP999EudaRl_2TGMPMhh7UXzzuXgepaDqoxWIcaxnMuPs3HmG3ISMWcPwPQqrWRE6ibzbougN0IU6SZvtsmngEDXc57Lb0MoNbgAETLVIyriqluTpGgYOhybxJPvRxIl8rVBIeJololYrGK98sUsvbxaidi6JOj_iBKQiPPLsO6k3Rgw81ZbuedrYIUkSo_HjQ0x5fFXJ0V4SWhKSJFh6PiE0kQNJu4-8WSHMIqoPE4FFXXv_DvMl267bMk7MWQ9fC2pgFQc9Y0cJ8vnrRVHK4IUgoDBNJR_Q8n0KWG75W_geU3PsKjXfspfpJ5Le0PgI9WIUAUbPdx3nMjXJia_XVeNR5kEM_0f32WUzb3KXRvW87r8P3oHK5M1UYOUN2KPeA2awz8fLAqxqQnu0ijUw4KvQ5uHG0wYM3KW8iehl3tOp-UxB4atkWDV5Vcg9hMT_M5t3--sk1H9jSrUYlQ3SC1/https://www.amazon.com/PRETTYGARDEN-Womens-Summer-Smocked-Sundress/dp/B0CQQ8NXJ1/ref=sxin_15_sbv_search_btf?content-id=amzn1.sym.c8b39f81-ded8-4d75-80c2-6dfa03cbb699%3Aamzn1.sym.c8b39f81-ded8-4d75-80c2-6dfa03cbb699&cv_ct_cx=%5B%22clothing%22%2C+%22dress%22%2C+%22red%22%2C+%22comfortable%22%2C+%22fashion%22%2C+%22women%22%2C+%22apparel%22%2C+%22style%22%2C+%22b2c%22%2C+%22retail%22%5D&keywords=%5B%22clothing%22%2C+%22dress%22%2C+%22red%22%2C+%22comfortable%22%2C+%22fashion%22%2C+%22women%22%2C+%22apparel%22%2C+%22style%22%2C+%22b2c%22%2C+%22retail%22%5D&pd_rd_i=B0CQQ8NXJ1&pd_rd_r=10ba88c0-9e50-4cc6-90b7-b2de548a59a4&pd_rd_w=0mPCj&pd_rd_wg=RG7uf&pf_rd_p=c8b39f81-ded8-4d75-80c2-6dfa03cbb699&pf_rd_r=YZ00MWS5YEN8N07CZQV2&qid=1753198443&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sr=1-1-5190daf0-67e3-427c-bea6-c72c1df98776",
+                        "link_clean": "https://www.amazon.com/dp/B0CQQ8NXJ1/",
+                        "thumbnail": "https://m.media-amazon.com/images/I/71ETDwqvPqL._AC_UL640_QL65_.jpg",
+                        "rating": 4.2,
+                        "reviews": 1028,
+                        "bought_last_month": "100+ bought in past month",
+                        "price": "$39.99",
+                        "extracted_price": 39.99,
+                        "old_price": "$49.99",
+                        "extracted_old_price": 49.99,
+                        "delivery":
+                        [
+                            "FREE delivery Sun, Jul 27",
+                            "Or fastest delivery Tomorrow, Jul 23"
+                        ]
+                    }
+                ]
+            }
+            ,
+            {
+                "block_position": "bottom",
+                "video_thumbnail": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/fb4ae221-48a9-42a7-9eb3-9c0fca370ea7.mp4/r/THUMBNAIL_360P_FRAME_3_CAPTURE_2.JPG",
+                "video_src": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/fb4ae221-48a9-42a7-9eb3-9c0fca370ea7.mp4/productVideoOptimized.mp4",
+                "video_link": "https://aax-us-iad.amazon.com/x/c/JHGmP9xmftAMxzzJfgVAXukAAAGYMsU9IQEAAAH2AQBvbm9fdHhuX2JpZDcgICBvbm9fdHhuX2ltcDIgICB8zkfr/clv1_CEuOPUxokZA0iHrVUe4chXn_cjUje6gVjLIDsBa33e4r8X8FhQumFv018nHz9hvWjq0yzpNb3XTPsunPyWYceUNqBmfKOfi2S2gfRnlUTx6LIaxx4wYOLZEdHEeppYemXJOUalC7tdMeWEwmgVz7bV1AckwCRMN0CRVmUax7QwuP3u3MgFIzS1q5d5TuNOspGHpbasDVlJ1bT2hxC9tUMuUFm8yvmtV0DgjzOKVy-i0Vs7d2vLK7GWsuqRqJ-0hcN3jpMffPnUdL6EdDGtZaMjOYRyGXghLNCd7m6b_pSZUgD1ig-I6A-jeRfQnwQqSR4_E-3N5pFc7hp4P4M9TtEuFK999PWwRokpU4wfVsPpln11Z5KUuB8SGc0MoiUXiuaDFnnGOvpH8ppSr1AoykS24BZM7zucVmVbcmG3VHnlJ_MfhRt19KAG1Hvpd3Q2koAbqwOvPKm_u0cBUSbzW9h64seRWsqluyb3Ntfr0lnYSUFltD_aimrxnddUtzPorrnvZ40wtDKa0unBuDhQ2HzTTvcRl2QnddGximBg3wEK3_Lx68CwRd3khEWEv4Sj_iavomu_54Xjy4jKdeicYpBDSaDgNozSlg2fwasLeDvB86l6-_4pY7dnHQ5RalU4_mLkw-WfUSIkd88c1XBr9uqRI3w7TRLiQlcUY8qs5_8JwxCnwmXR2BkV0bjSL5cOFZ4ykO1H14zJAdxNYjFCqMEWQwzunsb8rg-6DtfH8mBAD3rg_yTIxg3jVp7sUbZebOsohNRwPjjlDD3Dj4AXXHMiM9mgf6U1Vonf5Ma8pQYAqY_FQxM-tOuhtjtp6VS0SDfseZTCxHywHvvvFSUP9nl5Kdi14gz8umG-K2g9_7iEmR3X3ByXUu-Dbkkl60lSf7gqAGj-x8kTzxIdALe9omEPuZjZGw-ClVFyQ3FCPKiXD4oi51PFIfOXlYeE7v2UKhkzS6d-vvxNCSrN79xxi4B6FeBLyaRIXQyU2yVR5Aa9oFfBJ5QEtdS4r97FPnK1UDBguq6rRW1FYQRIAv05CIlj5OmA5ZCuqZmGwj0qRC6HhqfWPgcqv0JBH1eYtfJtFaZ12earvLPig6TIO6V8fdnNHGeTvun7ttfs0lAwtAOamSDGmiIORDunxoFq-MuO71sOEmWvLntCg7IMUWm2ogOFgaBcvIKUTeKLk9tYf-lbeu2Sel5l3XspMu0glPUdUsHiO3LVj55GG_bDYClwfjDO-mtJpi5J9O8TyKx65jFGHCME8ySX6e6FqGnhkLIIH4coALkNyNaGT_F_NxUrUt9GIG4pFejYWn9SS2l3mEObf5dM5JQ8To2uYLj2ahqps4HYRufx6Y3Ef4ocN1Z3MF5qrvveIYoWFbd-9KP9Z9htsYqEOTOguRt_e1F3azeolGLhzueU3wdgLFZAIybKWlb6e7mxmgbExt95ZVn83_mH5INlJy064AHMwtPh7BNDicyHYsBHzEobiisyjFGgfOXlPi1zS9c-o2xccSz_AF92kRlUHdKHuxO3t72Ksyu_GcvCXSQiISVdtkM6_gRYUeGzzJg-b0HHiBC0ejc6g4kp6mzt2awKGPY4lkM44zgNdrRJ3vN3m35J7cTfPwBm0QZh1Ow-bh47s67rburGLs7YafUG3sPxrwgh9t5ltsaLqheQjhA1Pp_b8afCSOphJqz6YfHzXbSUk7MoVPtukAc--nL-YgsYnWTVwp0cyZptnkrP1bKp-mvUZmh1ORlJURPgLV2y1-tXacnoF0IQPB7ACdtNP999EudaRl_2TGMPMhh7UXzzuXgepaDqoxWIcaxnMuPs3HmG3ISMWcPwPQqrWRE6ibzbougN0IU6SZvtsmngEDXc57Lb0MoNbgAETLVIyriqluTpGgYOhybxJPvRxIl8rVBIeJololYrGK98sUsvbxaidi6JOj_iBKQiPPLsO6k3Rgw81ZbuedrYIUkSo_HjQ0x5fFXJ0V4SWhKSJFh6PiE0kQNJu4-8WSHMJ_n7AeElXXv_DvMlW_g9hr7MWQjevM9w5Qc9Y0cJ8vnrRVH64PUgoDBNJR_Q8n1KeG7ZikyuNmIoWkR-o-Yp10W9RNgJZdN1cQf-AunHIiHtac9HUCNwE5EtL_NiWQDX7zO3M2R93slP3xF5hb0VUZDbyFK-RKEQrqWKItndkQql2rVj0HuxgDY08taxt-S3w6jkn7dbu2-SEcsmfVX9tPTXRIRfqGyTdjjSfFrLHHoDzSCqhFtA/https://www.amazon.com/dp/B0CQQ8QXR1?pd_rd_i=B0CQQ8QXR1&pf_rd_p=37132d36-da68-4ed0-8d23-842f0825e4d6&pf_rd_r=YZ00MWS5YEN8N07CZQV2&pd_rd_wg=wMQH3&pd_rd_w=G7qG4&pd_rd_r=c5abd1d7-3a4f-4e33-8edd-d5322ed51023",
+                "products":
+                [
+                    {
+                        "position": 1,
+                        "asin": "B0CQQ8QXR1",
+                        "sponsored": true,
+                        "title": "PRETTYGARDEN Women's Summer Flowy Maxi Dress Casual Cap Sleeve V Neck Smocked Beach Sundress",
+                        "link": "https://aax-us-iad.amazon.com/x/c/JHGmP9xmftAMxzzJfgVAXukAAAGYMsU9IQEAAAH2AQBvbm9fdHhuX2JpZDcgICBvbm9fdHhuX2ltcDIgICB8zkfr/clv1_CEuOPUxokZA0iHrVUe4chXn_cjUje6gVjLIDsBa33e4r8X8FhQumFv018nHz9hvWjq0yzpNb3XTPsunPyWYceUNqBmfKOfi2S2gfRnlUTx6LIaxx4wYOLZEdHEeppYemXJOUalC7tdMeWEwmgVz7bV1AckwCRMN0CRVmUax7QwuP3u3MgFIzS1q5d5TuNOspGHpbasDVlJ1bT2hxC9tUMuUFm8yvmtV0DgjzOKVy-i0Vs7d2vLK7GWsuqRqJ-0hcN3jpMffPnUdL6EdDGtZaMjOYRyGXghLNCd7m6b_pSZUgD1ig-I6A-jeRfQnwQqSR4_E-3N5pFc7hp4P4M9TtEuFK999PWwRokpU4wfVsPpln11Z5KUuB8SGc0MoiUXiuaDFnnGOvpH8ppSr1AoykS24BZM7zucVmVbcmG3VHnlJ_MfhRt19KAG1Hvpd3Q2koAbqwOvPKm_u0cBUSbzW9h64seRWsqluyb3Ntfr0lnYSUFltD_aimrxnddUtzPorrnvZ40wtDKa0unBuDhQ2HzTTvcRl2QnddGximBg3wEK3_Lx68CwRd3khEWEv4Sj_iavomu_54Xjy4jKdeicYpBDSaDgNozSlg2fwasLeDvB86l6-_4pY7dnHQ5RalU4_mLkw-WfUSIkd88c1XBr9uqRI3w7TRLiQlcUY8qs5_8JwxCnwmXR2BkV0bjSL5cOFZ4ykO1H14zJAdxNYjFCqMEWQwzunsb8rg-6DtfH8mBAD3rg_yTIxg3jVp7sUbZebOsohNRwPjjlDD3Dj4AXXHMiM9mgf6U1Vonf5Ma8pQYAqY_FQxM-tOuhtjtp6VS0SDfseZTCxHywHvvvFSUP9nl5Kdi14gz8umG-K2g9_7iEmR3X3ByXUu-Dbkkl60lSf7gqAGj-x8kTzxIdALe9omEPuZjZGw-ClVFyQ3FCPKiXD4oi51PFIfOXlYeE7v2UKhkzS6d-vvxNCSrN79xxi4B6FeBLyaRIXQyU2yVR5Aa9oFfBJ5QEtdS4r97FPnK1UDBguq6rRW1FYQRIAv05CIlj5OmA5ZCuqZmGwj0qRC6HhqfWPgcqv0JBH1eYtfJtFaZ12earvLPig6TIO6V8fdnNHGeTvun7ttfs0lAwtAOamSDGmiIORDunxoFq-MuO71sOEmWvLntCg7IMUWm2ogOFgaBcvIKUTeKLk9tYf-lbeu2Sel5l3XspMu0glPUdUsHiO3LVj55GG_bDYClwfjDO-mtJpi5J9O8TyKx65jFGHCME8ySX6e6FqGnhkLIIH4coALkNyNaGT_F_NxUrUt9GIG4pFejYWn9SS2l3mEObf5dM5JQ8To2uYLj2ahqps4HYRufx6Y3Ef4ocN1Z3MF5qrvveIYoWFbd-9KP9Z9htsYqEOTOguRt_e1F3azeolGLhzueU3wdgLFZAIybKWlb6e7mxmgbExt95ZVn83_mH5INlJy064AHMwtPh7BNDicyHYsBHzEobiisyjFGgfOXlPi1zS9c-o2xccSz_AF92kRlUHdKHuxO3t72Ksyu_GcvCXSQiISVdtkM6_gRYUeGzzJg-b0HHiBC0ejc6g4kp6mzt2awKGPY4lkM44zgNdrRJ3vN3m35J7cTfPwBm0QZh1Ow-bh47s67rburGLs7YafUG3sPxrwgh9t5ltsaLqheQjhA1Pp_b8afCSOphJqz6YfHzXbSUk7MoVPtukAc--nL-YgsYnWTVwp0cyZptnkrP1bKp-mvUZmh1ORlJURPgLV2y1-tXacnoF0IQPB7ACdtNP999EudaRl_2TGMPMhh7UXzzuXgepaDqoxWIcaxnMuPs3HmG3ISMWcPwPQqrWRE6ibzbougN0IU6SZvtsmngEDXc57Lb0MoNbgAETLVIyriqluTpGgYOhybxJPvRxIl8rVBIeJololYrGK98sUsvbxaidi6JOj_iBKQiPPLsO6k3Rgw81ZbuedrYIUkSo_HjQ0x5fFXJ0V4SWhKSJFh6PiE0kQNJu4-8WSHMJ_n7AeElXXv_DvMlW_g9hr7MWQjevM9w5Qc9Y0cJ8vnrRVH64PUgoDBNJR_Q8n1KeG7ZikyuNmIoWkR-o-Yp10W9RNgJZdN1cQf-AunHIiHtac9HUCNwE5EtL_NiWQDX7zO3M2R93slP3xF5hb0VUZDbyFK-RKEQrqWKItndkQql2rVj0HuxgDY08taxt-S3w6jkn7dbu2-SEcsmfVX9tPTXRIRfqGyTdjjSfFrLHHoDzSCqhFtA/https://www.amazon.com/PRETTYGARDEN-Womens-Summer-Smocked-Sundress/dp/B0CQQ8QXR1/ref=sxbs_sbv_search_btf?content-id=amzn1.sym.37132d36-da68-4ed0-8d23-842f0825e4d6%3Aamzn1.sym.37132d36-da68-4ed0-8d23-842f0825e4d6&cv_ct_cx=%5B%22clothing%22%2C+%22dress%22%2C+%22red%22%2C+%22comfortable%22%2C+%22fashion%22%2C+%22women%22%2C+%22apparel%22%2C+%22style%22%2C+%22b2c%22%2C+%22retail%22%5D&keywords=%5B%22clothing%22%2C+%22dress%22%2C+%22red%22%2C+%22comfortable%22%2C+%22fashion%22%2C+%22women%22%2C+%22apparel%22%2C+%22style%22%2C+%22b2c%22%2C+%22retail%22%5D&pd_rd_i=B0CQQ8QXR1&pd_rd_r=c5abd1d7-3a4f-4e33-8edd-d5322ed51023&pd_rd_w=G7qG4&pd_rd_wg=wMQH3&pf_rd_p=37132d36-da68-4ed0-8d23-842f0825e4d6&pf_rd_r=YZ00MWS5YEN8N07CZQV2&qid=1753198443&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sr=1-1-a61ee601-6e56-4862-a8a2-1d3da5a5406f",
+                        "link_clean": "https://www.amazon.com/dp/B0CQQ8QXR1/",
+                        "thumbnail": "https://m.media-amazon.com/images/I/71ETDwqvPqL._AC_UL640_QL65_.jpg",
+                        "rating": 4.2,
+                        "reviews": 1028,
+                        "bought_last_month": "100+ bought in past month",
+                        "price": "$49.99",
+                        "extracted_price": 49.99,
+                        "delivery":
+                        [
+                            "FREE delivery Sun, Jul 27",
+                            "Or fastest delivery Tomorrow, Jul 23"
+                        ]
+                    }
+                ]
+            }
+        ]
+        ,
+        "categories":
+        [
+            {
+                "position": 1,
+                "name": "Gift Cards",
+                "link": "https://www.amazon.com/gift-cards/b/?ie=UTF8&node=2238192011&ref_=nav_cs_gc",
+                "node": "2238192011",
+                "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&node=2238192011"
+            }
+            ,
+            {
+                "position": 2,
+                "name": "Smart Home",
+                "link": "https://www.amazon.com/Smart-Home/b/?ie=UTF8&node=6563140011&ref_=nav_cs_smart_home",
+                "node": "6563140011",
+                "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&node=6563140011"
+            }
+            ,
+            {
+                "position": 3,
+                "name": "Amazon Home",
+                "link": "https://www.amazon.com/home-garden-kitchen-furniture-bedding/b/?ie=UTF8&node=1055398&ref_=nav_cs_home",
+                "node": "1055398",
+                "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&node=1055398"
+            }
+            ,
+            {
+                "position": 4,
+                "name": "Sports & Outdoors",
+                "link": "https://www.amazon.com/sports-outdoors/b/?ie=UTF8&node=3375251&ref_=nav_cs_sports",
+                "node": "3375251",
+                "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&node=3375251"
+            }
+            ,
+            {
+                "position": 5,
+                "name": "Books",
+                "link": "https://www.amazon.com/books-used-books-textbooks/b/?ie=UTF8&node=283155&ref_=nav_cs_books",
+                "node": "283155",
+                "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&node=283155"
+            }
+            ,
+            {
+                "position": 6,
+                "name": "Fashion",
+                "link": "https://www.amazon.com/amazon-fashion/b/?ie=UTF8&node=7141123011&ref_=nav_cs_fashion",
+                "node": "7141123011",
+                "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&node=7141123011"
+            }
+            ,
+            {
+                "position": 7,
+                "name": "Sell",
+                "link": "https://www.amazon.com/b/?_encoding=UTF8&ld=AZUSSOA-sell&node=12766669011&ref_=nav_cs_sell",
+                "node": "12766669011",
+                "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&node=12766669011"
+            }
+            ,
+            {
+                "position": 8,
+                "name": "Beauty & Personal Care",
+                "link": "https://www.amazon.com/Beauty-Makeup-Skin-Hair-Products/b/?ie=UTF8&node=3760911&ref_=nav_cs_beauty",
+                "node": "3760911",
+                "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&node=3760911"
+            }
+            ,
+            {
+                "position": 9,
+                "name": "Toys & Games",
+                "link": "https://www.amazon.com/toys/b/?ie=UTF8&node=165793011&ref_=nav_cs_toys",
+                "node": "165793011",
+                "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&node=165793011"
+            }
+            ,
+            {
+                "position": 10,
+                "name": "Automotive",
+                "link": "https://www.amazon.com/automotive-auto-truck-replacements-parts/b/?ie=UTF8&node=15684181&ref_=nav_cs_automotive",
+                "node": "15684181",
+                "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&node=15684181"
+            }
+            ,
+            {
+                "position": 11,
+                "name": "Home Improvement",
+                "link": "https://www.amazon.com/Tools-and-Home-Improvement/b/?ie=UTF8&node=228013&ref_=nav_cs_hi",
+                "node": "228013",
+                "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&node=228013"
+            }
+            ,
+            {
+                "position": 12,
+                "name": "Computers",
+                "link": "https://www.amazon.com/computer-pc-hardware-accessories-add-ons/b/?ie=UTF8&node=541966&ref_=nav_cs_pc",
+                "node": "541966",
+                "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&node=541966"
+            }
+        ]
+        ,
+        "filters":
+        {
+            "delivery_day":
+            [
+                {
+                    "position": 1,
+                    "name": "Get It by Tomorrow",
+                    "rh": "p_90:8308921011",
+                    "link": "https://www.amazon.com/s?k=%5B%22clothing%22%2C+%22dress%22%2C+%22red%22%2C+%22comfortable%22%2C+%22fashion%22%2C+%22women%22%2C+%22apparel%22%2C+%22style%22%2C+%22b2c%22%2C+%22retail%22%5D&rh=p_90%3A8308921011&dc&qid=1753198443&rnid=8308919011&ref=sr_nr_p_90_1&ds=v1%3A4xNEbZ1p%2FzefbMSHdtCbgXExKbLUujZQXzXrLS%2FgQhU",
+                    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=%5B%22clothing%22%2C+%22dress%22%2C+%22red%22%2C+%22comfortable%22%2C+%22fashion%22%2C+%22women%22%2C+%22apparel%22%2C+%22style%22%2C+%22b2c%22%2C+%22retail%22%5D&rh=p_90%3A8308921011"
+                }
+            ]
+            ,
+            "gender":
+            [
+                {
+                    "position": 1,
+                    "name": "Women",
+                    "rh": "p_n_feature_thirty-two_browse-bin:121075131011",
+                    "link": "https://www.amazon.com/s?k=%5B%22clothing%22%2C+%22dress%22%2C+%22red%22%2C+%22comfortable%22%2C+%22fashion%22%2C+%22women%22%2C+%22apparel%22%2C+%22style%22%2C+%22b2c%22%2C+%22retail%22%5D&rh=n%3A7141123011%2Cp_n_feature_thirty-two_browse-bin%3A121075131011&dc&qid=1753198443&rnid=121075130011&ref=sr_nr_p_n_feature_thirty-two_browse-bin_1&ds=v1%3Aa45k50Gqkxl9eDjdl4g%2BpwObCDZkDsUXXX55kvSPkww",
+                    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=%5B%22clothing%22%2C+%22dress%22%2C+%22red%22%2C+%22comfortable%22%2C+%22fashion%22%2C+%22women%22%2C+%22apparel%22%2C+%22style%22%2C+%22b2c%22%2C+%22retail%22%5D&rh=n%3A7141123011%2Cp_n_feature_thirty-two_browse-bin%3A121075131011"
+                }
+            ]
+            ,
+            "women_s_general_clothing_size":
+            [
+                {
+                    "position": 1,
+                    "name": "M",
+                    "rh": "p_n_pt_nav_size_women_size:2475480011",
+                    "link": "https://www.amazon.com/s?k=%5B%22clothing%22%2C+%22dress%22%2C+%22red%22%2C+%22comfortable%22%2C+%22fashion%22%2C+%22women%22%2C+%22apparel%22%2C+%22style%22%2C+%22b2c%22%2C+%22retail%22%5D&rh=n%3A7141123011%2Cp_n_pt_nav_size_women_size%3A2475480011&dc&qid=1753198443&rnid=2475476011&ref=sr_nr_p_n_pt_nav_size_women_size_1&ds=v1%3AKxDoZNU2e0J8UuUEDuSWcO%2F%2Bo2awIU9lrqSoiNGrLdA",
+                    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=%5B%22clothing%22%2C+%22dress%22%2C+%22red%22%2C+%22comfortable%22%2C+%22fashion%22%2C+%22women%22%2C+%22apparel%22%2C+%22style%22%2C+%22b2c%22%2C+%22retail%22%5D&rh=n%3A7141123011%2Cp_n_pt_nav_size_women_size%3A2475480011"
+                }
+                ,
+                {
+                    "position": 2,
+                    "name": "XL",
+                    "rh": "p_n_pt_nav_size_women_size:2475482011",
+                    "link": "https://www.amazon.com/s?k=%5B%22clothing%22%2C+%22dress%22%2C+%22red%22%2C+%22comfortable%22%2C+%22fashion%22%2C+%22women%22%2C+%22apparel%22%2C+%22style%22%2C+%22b2c%22%2C+%22retail%22%5D&rh=n%3A7141123011%2Cp_n_pt_nav_size_women_size%3A2475482011&dc&qid=1753198443&rnid=2475476011&ref=sr_nr_p_n_pt_nav_size_women_size_2&ds=v1%3A2M86eHoA4wmsHulsx8b1C4wCX5CsauYI7GRXiYu3zRM",
+                    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=%5B%22clothing%22%2C+%22dress%22%2C+%22red%22%2C+%22comfortable%22%2C+%22fashion%22%2C+%22women%22%2C+%22apparel%22%2C+%22style%22%2C+%22b2c%22%2C+%22retail%22%5D&rh=n%3A7141123011%2Cp_n_pt_nav_size_women_size%3A2475482011"
+                }
+            ]
+            ,
+            "color":
+            [
+                {
+                    "position": 1,
+                    "name": "Reds",
+                    "rh": "p_n_size_browse-vebin:2343361011",
+                    "link": "https://www.amazon.com/s?k=%5B%22clothing%22%2C+%22dress%22%2C+%22red%22%2C+%22comfortable%22%2C+%22fashion%22%2C+%22women%22%2C+%22apparel%22%2C+%22style%22%2C+%22b2c%22%2C+%22retail%22%5D&rh=n%3A7141123011%2Cp_n_size_browse-vebin%3A2343361011&dc&qid=1753198443&rnid=2343347011&ref=sr_nr_p_n_size_browse-vebin_1&ds=v1%3AGfSibD7ph4ZBI6ipWT7jNvDLj9akF9sexo0gXfC5Ns4",
+                    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=%5B%22clothing%22%2C+%22dress%22%2C+%22red%22%2C+%22comfortable%22%2C+%22fashion%22%2C+%22women%22%2C+%22apparel%22%2C+%22style%22%2C+%22b2c%22%2C+%22retail%22%5D&rh=n%3A7141123011%2Cp_n_size_browse-vebin%3A2343361011"
+                }
+                ,
+                {
+                    "position": 2,
+                    "name": "Oranges",
+                    "rh": "p_n_size_browse-vebin:2343358011",
+                    "link": "https://www.amazon.com/s?k=%5B%22clothing%22%2C+%22dress%22%2C+%22red%22%2C+%22comfortable%22%2C+%22fashion%22%2C+%22women%22%2C+%22apparel%22%2C+%22style%22%2C+%22b2c%22%2C+%22retail%22%5D&rh=n%3A7141123011%2Cp_n_size_browse-vebin%3A2343358011&dc&qid=1753198443&rnid=2343347011&ref=sr_nr_p_n_size_browse-vebin_2&ds=v1%3AmwdOxGOHcvbTeDMjcKIs%2F1838R6%2BNi9Ha0%2F5wFGAF1I",
+                    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=%5B%22clothing%22%2C+%22dress%22%2C+%22red%22%2C+%22comfortable%22%2C+%22fashion%22%2C+%22women%22%2C+%22apparel%22%2C+%22style%22%2C+%22b2c%22%2C+%22retail%22%5D&rh=n%3A7141123011%2Cp_n_size_browse-vebin%3A2343358011"
+                }
+                ,
+                {
+                    "position": 3,
+                    "name": "Pinks",
+                    "rh": "p_n_size_browse-vebin:2343359011",
+                    "link": "https://www.amazon.com/s?k=%5B%22clothing%22%2C+%22dress%22%2C+%22red%22%2C+%22comfortable%22%2C+%22fashion%22%2C+%22women%22%2C+%22apparel%22%2C+%22style%22%2C+%22b2c%22%2C+%22retail%22%5D&rh=n%3A7141123011%2Cp_n_size_browse-vebin%3A2343359011&dc&qid=1753198443&rnid=2343347011&ref=sr_nr_p_n_size_browse-vebin_3&ds=v1%3ASk3jqdrW%2BsWyQKXjJ5JzwV3MkOeC%2FwScbkQSP0b7coc",
+                    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=%5B%22clothing%22%2C+%22dress%22%2C+%22red%22%2C+%22comfortable%22%2C+%22fashion%22%2C+%22women%22%2C+%22apparel%22%2C+%22style%22%2C+%22b2c%22%2C+%22retail%22%5D&rh=n%3A7141123011%2Cp_n_size_browse-vebin%3A2343359011"
+                }
+            ]
+            ,
+            "item_length_description":
+            [
+                {
+                    "position": 1,
+                    "name": "Below the Knee",
+                    "rh": "p_n_feature_sixteen_browse-bin:24921219011",
+                    "link": "https://www.amazon.com/s?k=%5B%22clothing%22%2C+%22dress%22%2C+%22red%22%2C+%22comfortable%22%2C+%22fashion%22%2C+%22women%22%2C+%22apparel%22%2C+%22style%22%2C+%22b2c%22%2C+%22retail%22%5D&rh=n%3A7141123011%2Cp_n_feature_sixteen_browse-bin%3A24921219011&dc&qid=1753198443&rnid=24921212011&ref=sr_nr_p_n_feature_sixteen_browse-bin_1&ds=v1%3A4b5vzYUUje%2F%2Bf9dPLW3Fp9YWPwm1VilczWGpb73G89k",
+                    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=%5B%22clothing%22%2C+%22dress%22%2C+%22red%22%2C+%22comfortable%22%2C+%22fashion%22%2C+%22women%22%2C+%22apparel%22%2C+%22style%22%2C+%22b2c%22%2C+%22retail%22%5D&rh=n%3A7141123011%2Cp_n_feature_sixteen_browse-bin%3A24921219011"
+                }
+                ,
+                {
+                    "position": 2,
+                    "name": "Knee-Length",
+                    "rh": "p_n_feature_sixteen_browse-bin:24921213011",
+                    "link": "https://www.amazon.com/s?k=%5B%22clothing%22%2C+%22dress%22%2C+%22red%22%2C+%22comfortable%22%2C+%22fashion%22%2C+%22women%22%2C+%22apparel%22%2C+%22style%22%2C+%22b2c%22%2C+%22retail%22%5D&rh=n%3A7141123011%2Cp_n_feature_sixteen_browse-bin%3A24921213011&dc&qid=1753198443&rnid=24921212011&ref=sr_nr_p_n_feature_sixteen_browse-bin_2&ds=v1%3Aunbp79Doqx%2FVvm8pSRJkf4BW0JIpkISx5UnyN7Og8fM",
+                    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=%5B%22clothing%22%2C+%22dress%22%2C+%22red%22%2C+%22comfortable%22%2C+%22fashion%22%2C+%22women%22%2C+%22apparel%22%2C+%22style%22%2C+%22b2c%22%2C+%22retail%22%5D&rh=n%3A7141123011%2Cp_n_feature_sixteen_browse-bin%3A24921213011"
+                }
+            ]
+            ,
+            "sleeve_length_description":
+            [
+                {
+                    "position": 1,
+                    "name": "Short Sleeve",
+                    "rh": "p_n_feature_browse-bin:368722011",
+                    "link": "https://www.amazon.com/s?k=%5B%22clothing%22%2C+%22dress%22%2C+%22red%22%2C+%22comfortable%22%2C+%22fashion%22%2C+%22women%22%2C+%22apparel%22%2C+%22style%22%2C+%22b2c%22%2C+%22retail%22%5D&rh=n%3A7141123011%2Cp_n_feature_browse-bin%3A368722011&dc&qid=1753198443&rnid=368720011&ref=sr_nr_p_n_feature_browse-bin_1&ds=v1%3AFPVTTv5FeITuN6jN21%2FRPIWbSkfkh%2BW%2FUhiDOO2JG7w",
+                    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=%5B%22clothing%22%2C+%22dress%22%2C+%22red%22%2C+%22comfortable%22%2C+%22fashion%22%2C+%22women%22%2C+%22apparel%22%2C+%22style%22%2C+%22b2c%22%2C+%22retail%22%5D&rh=n%3A7141123011%2Cp_n_feature_browse-bin%3A368722011"
+                }
+                ,
+                {
+                    "position": 2,
+                    "name": "Sleeveless",
+                    "rh": "p_n_feature_browse-bin:370089011",
+                    "link": "https://www.amazon.com/s?k=%5B%22clothing%22%2C+%22dress%22%2C+%22red%22%2C+%22comfortable%22%2C+%22fashion%22%2C+%22women%22%2C+%22apparel%22%2C+%22style%22%2C+%22b2c%22%2C+%22retail%22%5D&rh=n%3A7141123011%2Cp_n_feature_browse-bin%3A370089011&dc&qid=1753198443&rnid=368720011&ref=sr_nr_p_n_feature_browse-bin_2&ds=v1%3Azvtrp%2F1cA8Sm4%2B8rlYzls3TxjhF%2FVsD5HD0sYtWNjfQ",
+                    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=%5B%22clothing%22%2C+%22dress%22%2C+%22red%22%2C+%22comfortable%22%2C+%22fashion%22%2C+%22women%22%2C+%22apparel%22%2C+%22style%22%2C+%22b2c%22%2C+%22retail%22%5D&rh=n%3A7141123011%2Cp_n_feature_browse-bin%3A370089011"
+                }
+            ]
+            ,
+            "department":
+            [
+                {
+                    "position": 1,
+                    "name": "Clothing, Shoes & Jewelry",
+                    "rh": "n:7141123011",
+                    "link": "https://www.amazon.com/s?k=%5B%22clothing%22%2C+%22dress%22%2C+%22red%22%2C+%22comfortable%22%2C+%22fashion%22%2C+%22women%22%2C+%22apparel%22%2C+%22style%22%2C+%22b2c%22%2C+%22retail%22%5D&rh=n%3A7141123011&dc&qid=1753198443&rnid=2941120011&ref=sr_nr_n_1&ds=v1%3ASscAbGnFmzyN7ry2hKX%2Begbay90bxqa9N1vDCiQ7HtY",
+                    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=%5B%22clothing%22%2C+%22dress%22%2C+%22red%22%2C+%22comfortable%22%2C+%22fashion%22%2C+%22women%22%2C+%22apparel%22%2C+%22style%22%2C+%22b2c%22%2C+%22retail%22%5D&rh=n%3A7141123011"
+                }
+                ,
+                {
+                    "position": 2,
+                    "name": "Women's Casual Dresses",
+                    "rh": "n:2346727011",
+                    "link": "https://www.amazon.com/s?k=%5B%22clothing%22%2C+%22dress%22%2C+%22red%22%2C+%22comfortable%22%2C+%22fashion%22%2C+%22women%22%2C+%22apparel%22%2C+%22style%22%2C+%22b2c%22%2C+%22retail%22%5D&rh=n%3A7141123011%2Cn%3A2346727011&dc&qid=1753198443&rnid=2941120011&ref=sr_nr_n_2&ds=v1%3ANPaXdPSZiau7qYs1PFS7UGFyL%2Fj156qCIU9kEkFS2Ko",
+                    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=%5B%22clothing%22%2C+%22dress%22%2C+%22red%22%2C+%22comfortable%22%2C+%22fashion%22%2C+%22women%22%2C+%22apparel%22%2C+%22style%22%2C+%22b2c%22%2C+%22retail%22%5D&rh=n%3A7141123011%2Cn%3A2346727011"
+                }
+                ,
+                {
+                    "position": 3,
+                    "name": "Men's Button-Down Shirts",
+                    "rh": "n:121177981011",
+                    "link": "https://www.amazon.com/s?k=%5B%22clothing%22%2C+%22dress%22%2C+%22red%22%2C+%22comfortable%22%2C+%22fashion%22%2C+%22women%22%2C+%22apparel%22%2C+%22style%22%2C+%22b2c%22%2C+%22retail%22%5D&rh=n%3A7141123011%2Cn%3A121177981011&dc&qid=1753198443&rnid=2941120011&ref=sr_nr_n_3&ds=v1%3ApD9DwGbcwy8pJWJHyV%2Fkpxo%2BHPoLE2OCIGQkbviPT1k",
+                    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=%5B%22clothing%22%2C+%22dress%22%2C+%22red%22%2C+%22comfortable%22%2C+%22fashion%22%2C+%22women%22%2C+%22apparel%22%2C+%22style%22%2C+%22b2c%22%2C+%22retail%22%5D&rh=n%3A7141123011%2Cn%3A121177981011"
+                }
+                ,
+                {
+                    "position": 4,
+                    "name": "Men's Suits & Sport Coats",
+                    "rh": "n:1045684",
+                    "link": "https://www.amazon.com/s?k=%5B%22clothing%22%2C+%22dress%22%2C+%22red%22%2C+%22comfortable%22%2C+%22fashion%22%2C+%22women%22%2C+%22apparel%22%2C+%22style%22%2C+%22b2c%22%2C+%22retail%22%5D&rh=n%3A7141123011%2Cn%3A1045684&dc&qid=1753198443&rnid=2941120011&ref=sr_nr_n_4&ds=v1%3Alytnkpwc7dYJrAT9H6q4517K1wNQpUIfJ4Coqzsmig0",
+                    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=%5B%22clothing%22%2C+%22dress%22%2C+%22red%22%2C+%22comfortable%22%2C+%22fashion%22%2C+%22women%22%2C+%22apparel%22%2C+%22style%22%2C+%22b2c%22%2C+%22retail%22%5D&rh=n%3A7141123011%2Cn%3A1045684"
+                }
+                ,
+                {
+                    "position": 5,
+                    "name": "Women's Club & Night Out Dresses",
+                    "rh": "n:11006702011",
+                    "link": "https://www.amazon.com/s?k=%5B%22clothing%22%2C+%22dress%22%2C+%22red%22%2C+%22comfortable%22%2C+%22fashion%22%2C+%22women%22%2C+%22apparel%22%2C+%22style%22%2C+%22b2c%22%2C+%22retail%22%5D&rh=n%3A7141123011%2Cn%3A11006702011&dc&qid=1753198443&rnid=2941120011&ref=sr_nr_n_5&ds=v1%3AG3sp8f3i3s9YhRtYgG0eEsdNq6rWWhr8pJy62D3IEwc",
+                    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=%5B%22clothing%22%2C+%22dress%22%2C+%22red%22%2C+%22comfortable%22%2C+%22fashion%22%2C+%22women%22%2C+%22apparel%22%2C+%22style%22%2C+%22b2c%22%2C+%22retail%22%5D&rh=n%3A7141123011%2Cn%3A11006702011"
+                }
+                ,
+                {
+                    "position": 6,
+                    "name": "Women's Wear to Work Dresses",
+                    "rh": "n:2346728011",
+                    "link": "https://www.amazon.com/s?k=%5B%22clothing%22%2C+%22dress%22%2C+%22red%22%2C+%22comfortable%22%2C+%22fashion%22%2C+%22women%22%2C+%22apparel%22%2C+%22style%22%2C+%22b2c%22%2C+%22retail%22%5D&rh=n%3A7141123011%2Cn%3A2346728011&dc&qid=1753198443&rnid=2941120011&ref=sr_nr_n_6&ds=v1%3Af%2F3gzj7a6zpZWHnvkPiiLnhu0uWWhof78DzT0gPsHLY",
+                    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=%5B%22clothing%22%2C+%22dress%22%2C+%22red%22%2C+%22comfortable%22%2C+%22fashion%22%2C+%22women%22%2C+%22apparel%22%2C+%22style%22%2C+%22b2c%22%2C+%22retail%22%5D&rh=n%3A7141123011%2Cn%3A2346728011"
+                }
+                ,
+                {
+                    "position": 7,
+                    "name": "Women's Blouses & Button-Down Shirts",
+                    "rh": "n:2368365011",
+                    "link": "https://www.amazon.com/s?k=%5B%22clothing%22%2C+%22dress%22%2C+%22red%22%2C+%22comfortable%22%2C+%22fashion%22%2C+%22women%22%2C+%22apparel%22%2C+%22style%22%2C+%22b2c%22%2C+%22retail%22%5D&rh=n%3A7141123011%2Cn%3A2368365011&dc&qid=1753198443&rnid=2941120011&ref=sr_nr_n_7&ds=v1%3A4FAX0lr2MpwItb5voUUXKirxZNgJQ4G1fUODR%2BCKzZw",
+                    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=%5B%22clothing%22%2C+%22dress%22%2C+%22red%22%2C+%22comfortable%22%2C+%22fashion%22%2C+%22women%22%2C+%22apparel%22%2C+%22style%22%2C+%22b2c%22%2C+%22retail%22%5D&rh=n%3A7141123011%2Cn%3A2368365011"
+                }
+                ,
+                {
+                    "position": 8,
+                    "name": "Women's Tops, Tees & Blouses",
+                    "rh": "n:2368343011",
+                    "link": "https://www.amazon.com/s?k=%5B%22clothing%22%2C+%22dress%22%2C+%22red%22%2C+%22comfortable%22%2C+%22fashion%22%2C+%22women%22%2C+%22apparel%22%2C+%22style%22%2C+%22b2c%22%2C+%22retail%22%5D&rh=n%3A7141123011%2Cn%3A2368343011&dc&qid=1753198443&rnid=2941120011&ref=sr_nr_n_8&ds=v1%3AVaBxY%2Fy9aPJ3l0SwcMeLQ9R62uopYmO2R5Ra8lv5zEk",
+                    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=%5B%22clothing%22%2C+%22dress%22%2C+%22red%22%2C+%22comfortable%22%2C+%22fashion%22%2C+%22women%22%2C+%22apparel%22%2C+%22style%22%2C+%22b2c%22%2C+%22retail%22%5D&rh=n%3A7141123011%2Cn%3A2368343011"
+                }
+                ,
+                {
+                    "position": 9,
+                    "name": "Men's Shirts",
+                    "rh": "n:2476517011",
+                    "link": "https://www.amazon.com/s?k=%5B%22clothing%22%2C+%22dress%22%2C+%22red%22%2C+%22comfortable%22%2C+%22fashion%22%2C+%22women%22%2C+%22apparel%22%2C+%22style%22%2C+%22b2c%22%2C+%22retail%22%5D&rh=n%3A7141123011%2Cn%3A2476517011&dc&qid=1753198443&rnid=2941120011&ref=sr_nr_n_9&ds=v1%3AhphaDXaasfvpPSAH3ral%2BVM3Hkxy93mWd35TL0K5nTk",
+                    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=%5B%22clothing%22%2C+%22dress%22%2C+%22red%22%2C+%22comfortable%22%2C+%22fashion%22%2C+%22women%22%2C+%22apparel%22%2C+%22style%22%2C+%22b2c%22%2C+%22retail%22%5D&rh=n%3A7141123011%2Cn%3A2476517011"
+                }
+                ,
+                {
+                    "position": 10,
+                    "name": "Girls' Tops, Tees & Blouses",
+                    "rh": "n:1044490",
+                    "link": "https://www.amazon.com/s?k=%5B%22clothing%22%2C+%22dress%22%2C+%22red%22%2C+%22comfortable%22%2C+%22fashion%22%2C+%22women%22%2C+%22apparel%22%2C+%22style%22%2C+%22b2c%22%2C+%22retail%22%5D&rh=n%3A7141123011%2Cn%3A1044490&dc&qid=1753198443&rnid=2941120011&ref=sr_nr_n_10&ds=v1%3AvT0rjbLQlLpm995ji2PGd%2BQ%2FRK17MqbsWo9px2mtPSw",
+                    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=%5B%22clothing%22%2C+%22dress%22%2C+%22red%22%2C+%22comfortable%22%2C+%22fashion%22%2C+%22women%22%2C+%22apparel%22%2C+%22style%22%2C+%22b2c%22%2C+%22retail%22%5D&rh=n%3A7141123011%2Cn%3A1044490"
+                }
+                ,
+                {
+                    "position": 11,
+                    "name": "Boys' Tops, Tees & Shirts",
+                    "rh": "n:2422483011",
+                    "link": "https://www.amazon.com/s?k=%5B%22clothing%22%2C+%22dress%22%2C+%22red%22%2C+%22comfortable%22%2C+%22fashion%22%2C+%22women%22%2C+%22apparel%22%2C+%22style%22%2C+%22b2c%22%2C+%22retail%22%5D&rh=n%3A7141123011%2Cn%3A2422483011&dc&qid=1753198443&rnid=2941120011&ref=sr_nr_n_11&ds=v1%3Aq3JE6x8ZP7iSt5Xbu0KhysqfYNjq0IPq0StG9JKUi38",
+                    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=%5B%22clothing%22%2C+%22dress%22%2C+%22red%22%2C+%22comfortable%22%2C+%22fashion%22%2C+%22women%22%2C+%22apparel%22%2C+%22style%22%2C+%22b2c%22%2C+%22retail%22%5D&rh=n%3A7141123011%2Cn%3A2422483011"
+                }
+            ]
+            ,
+            "dress_neck_style":
+            [
+                {
+                    "position": 1,
+                    "name": "V-Neck",
+                    "rh": "p_n_feature_eleven_browse-bin:23935394011",
+                    "link": "https://www.amazon.com/s?k=%5B%22clothing%22%2C+%22dress%22%2C+%22red%22%2C+%22comfortable%22%2C+%22fashion%22%2C+%22women%22%2C+%22apparel%22%2C+%22style%22%2C+%22b2c%22%2C+%22retail%22%5D&rh=n%3A7141123011%2Cp_n_feature_eleven_browse-bin%3A23935394011&dc&qid=1753198443&rnid=23935372011&ref=sr_nr_p_n_feature_eleven_browse-bin_1&ds=v1%3Ae0mdYpbzPk%2BDlXbNiTsV9fWQRb%2BQBaekSmePWD2zfGE",
+                    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=%5B%22clothing%22%2C+%22dress%22%2C+%22red%22%2C+%22comfortable%22%2C+%22fashion%22%2C+%22women%22%2C+%22apparel%22%2C+%22style%22%2C+%22b2c%22%2C+%22retail%22%5D&rh=n%3A7141123011%2Cp_n_feature_eleven_browse-bin%3A23935394011"
+                }
+                ,
+                {
+                    "position": 2,
+                    "name": "Crew Neck",
+                    "rh": "p_n_feature_eleven_browse-bin:23935382011",
+                    "link": "https://www.amazon.com/s?k=%5B%22clothing%22%2C+%22dress%22%2C+%22red%22%2C+%22comfortable%22%2C+%22fashion%22%2C+%22women%22%2C+%22apparel%22%2C+%22style%22%2C+%22b2c%22%2C+%22retail%22%5D&rh=n%3A7141123011%2Cp_n_feature_eleven_browse-bin%3A23935382011&dc&qid=1753198443&rnid=23935372011&ref=sr_nr_p_n_feature_eleven_browse-bin_2&ds=v1%3AzEezTxq8GP3NhFjYNO9rmxa47QlMcqOUtP3Km%2Fwn%2Bp4",
+                    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=%5B%22clothing%22%2C+%22dress%22%2C+%22red%22%2C+%22comfortable%22%2C+%22fashion%22%2C+%22women%22%2C+%22apparel%22%2C+%22style%22%2C+%22b2c%22%2C+%22retail%22%5D&rh=n%3A7141123011%2Cp_n_feature_eleven_browse-bin%3A23935382011"
+                }
+                ,
+                {
+                    "position": 3,
+                    "name": "U-Neck",
+                    "rh": "p_n_feature_eleven_browse-bin:78889242011",
+                    "link": "https://www.amazon.com/s?k=%5B%22clothing%22%2C+%22dress%22%2C+%22red%22%2C+%22comfortable%22%2C+%22fashion%22%2C+%22women%22%2C+%22apparel%22%2C+%22style%22%2C+%22b2c%22%2C+%22retail%22%5D&rh=n%3A7141123011%2Cp_n_feature_eleven_browse-bin%3A78889242011&dc&qid=1753198443&rnid=23935372011&ref=sr_nr_p_n_feature_eleven_browse-bin_3&ds=v1%3ADsTdM%2BHw57YPfKuTxfxgyVAgg%2FHIF7SnzBLhZa8coGs",
+                    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=%5B%22clothing%22%2C+%22dress%22%2C+%22red%22%2C+%22comfortable%22%2C+%22fashion%22%2C+%22women%22%2C+%22apparel%22%2C+%22style%22%2C+%22b2c%22%2C+%22retail%22%5D&rh=n%3A7141123011%2Cp_n_feature_eleven_browse-bin%3A78889242011"
+                }
+                ,
+                {
+                    "position": 4,
+                    "name": "Round Neck",
+                    "rh": "p_n_feature_eleven_browse-bin:78889243011",
+                    "link": "https://www.amazon.com/s?k=%5B%22clothing%22%2C+%22dress%22%2C+%22red%22%2C+%22comfortable%22%2C+%22fashion%22%2C+%22women%22%2C+%22apparel%22%2C+%22style%22%2C+%22b2c%22%2C+%22retail%22%5D&rh=n%3A7141123011%2Cp_n_feature_eleven_browse-bin%3A78889243011&dc&qid=1753198443&rnid=23935372011&ref=sr_nr_p_n_feature_eleven_browse-bin_4&ds=v1%3AZX69eaSRjxE3VR5A5wsPWaNqbe%2BqE9Nlry8VJLtsXqo",
+                    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=%5B%22clothing%22%2C+%22dress%22%2C+%22red%22%2C+%22comfortable%22%2C+%22fashion%22%2C+%22women%22%2C+%22apparel%22%2C+%22style%22%2C+%22b2c%22%2C+%22retail%22%5D&rh=n%3A7141123011%2Cp_n_feature_eleven_browse-bin%3A78889243011"
+                }
+            ]
+            ,
+            "clothing_material":
+            [
+                {
+                    "position": 1,
+                    "name": "Polyester",
+                    "rh": "p_n_material_browse:31310042011",
+                    "link": "https://www.amazon.com/s?k=%5B%22clothing%22%2C+%22dress%22%2C+%22red%22%2C+%22comfortable%22%2C+%22fashion%22%2C+%22women%22%2C+%22apparel%22%2C+%22style%22%2C+%22b2c%22%2C+%22retail%22%5D&rh=n%3A7141123011%2Cp_n_material_browse%3A31310042011&dc&qid=1753198443&rnid=31310038011&ref=sr_nr_p_n_material_browse_1&ds=v1%3AgJ6Cr%2Fa8f2Elrco4dHWPo30eXhsGqAqW50u6w28W1dQ",
+                    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=%5B%22clothing%22%2C+%22dress%22%2C+%22red%22%2C+%22comfortable%22%2C+%22fashion%22%2C+%22women%22%2C+%22apparel%22%2C+%22style%22%2C+%22b2c%22%2C+%22retail%22%5D&rh=n%3A7141123011%2Cp_n_material_browse%3A31310042011"
+                }
+            ]
+            ,
+            "women_s_numeric_clothing_size":
+            [
+                {
+                    "position": 1,
+                    "name": "1-2",
+                    "rh": "p_n_size_six_browse-vebin:2445385011",
+                    "link": "https://www.amazon.com/s?k=%5B%22clothing%22%2C+%22dress%22%2C+%22red%22%2C+%22comfortable%22%2C+%22fashion%22%2C+%22women%22%2C+%22apparel%22%2C+%22style%22%2C+%22b2c%22%2C+%22retail%22%5D&rh=n%3A7141123011%2Cp_n_size_six_browse-vebin%3A2445385011&dc&qid=1753198443&rnid=2445377011&ref=sr_nr_p_n_size_six_browse-vebin_1&ds=v1%3A%2F5gxfUH7xL3gFvAB0vl8LZ6Gytur%2Fg%2F%2BzqZpKFNSqk0",
+                    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=%5B%22clothing%22%2C+%22dress%22%2C+%22red%22%2C+%22comfortable%22%2C+%22fashion%22%2C+%22women%22%2C+%22apparel%22%2C+%22style%22%2C+%22b2c%22%2C+%22retail%22%5D&rh=n%3A7141123011%2Cp_n_size_six_browse-vebin%3A2445385011"
+                }
+            ]
+            ,
+            "apparel_silhouette":
+            [
+                {
+                    "position": 1,
+                    "name": "Fit & Flare",
+                    "rh": "p_n_feature_ten_browse-bin:23911659011",
+                    "link": "https://www.amazon.com/s?k=%5B%22clothing%22%2C+%22dress%22%2C+%22red%22%2C+%22comfortable%22%2C+%22fashion%22%2C+%22women%22%2C+%22apparel%22%2C+%22style%22%2C+%22b2c%22%2C+%22retail%22%5D&rh=n%3A7141123011%2Cp_n_feature_ten_browse-bin%3A23911659011&dc&qid=1753198443&rnid=23911651011&ref=sr_nr_p_n_feature_ten_browse-bin_1&ds=v1%3AA3r7QaZsh83bcv3OlTVeIZ9uZLuv9wn9Y5yxxXw5Tj0",
+                    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=%5B%22clothing%22%2C+%22dress%22%2C+%22red%22%2C+%22comfortable%22%2C+%22fashion%22%2C+%22women%22%2C+%22apparel%22%2C+%22style%22%2C+%22b2c%22%2C+%22retail%22%5D&rh=n%3A7141123011%2Cp_n_feature_ten_browse-bin%3A23911659011"
+                }
+                ,
+                {
+                    "position": 2,
+                    "name": "A-line",
+                    "rh": "p_n_feature_ten_browse-bin:23911663011",
+                    "link": "https://www.amazon.com/s?k=%5B%22clothing%22%2C+%22dress%22%2C+%22red%22%2C+%22comfortable%22%2C+%22fashion%22%2C+%22women%22%2C+%22apparel%22%2C+%22style%22%2C+%22b2c%22%2C+%22retail%22%5D&rh=n%3A7141123011%2Cp_n_feature_ten_browse-bin%3A23911663011&dc&qid=1753198443&rnid=23911651011&ref=sr_nr_p_n_feature_ten_browse-bin_2&ds=v1%3AGChjBqzGuyl1903SdjKRRQRxDlfnSIuk6zVJoozp1lc",
+                    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=%5B%22clothing%22%2C+%22dress%22%2C+%22red%22%2C+%22comfortable%22%2C+%22fashion%22%2C+%22women%22%2C+%22apparel%22%2C+%22style%22%2C+%22b2c%22%2C+%22retail%22%5D&rh=n%3A7141123011%2Cp_n_feature_ten_browse-bin%3A23911663011"
+                }
+            ]
+            ,
+            "apparel_pattern":
+            [
+                {
+                    "position": 1,
+                    "name": "Solid",
+                    "rh": "p_n_feature_twelve_browse-bin:23575358011",
+                    "link": "https://www.amazon.com/s?k=%5B%22clothing%22%2C+%22dress%22%2C+%22red%22%2C+%22comfortable%22%2C+%22fashion%22%2C+%22women%22%2C+%22apparel%22%2C+%22style%22%2C+%22b2c%22%2C+%22retail%22%5D&rh=n%3A7141123011%2Cp_n_feature_twelve_browse-bin%3A23575358011&dc&qid=1753198443&rnid=23575341011&ref=sr_nr_p_n_feature_twelve_browse-bin_1&ds=v1%3AUrlINCISmJSpHF5QKg7E5reezp66w1TCzChijix4%2Fc0",
+                    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=%5B%22clothing%22%2C+%22dress%22%2C+%22red%22%2C+%22comfortable%22%2C+%22fashion%22%2C+%22women%22%2C+%22apparel%22%2C+%22style%22%2C+%22b2c%22%2C+%22retail%22%5D&rh=n%3A7141123011%2Cp_n_feature_twelve_browse-bin%3A23575358011"
+                }
+            ]
+            ,
+            "seller":
+            [
+                {
+                    "position": 1,
+                    "name": "shijezhaoming",
+                    "rh": "p_6:AB7J9X1HLSA1S",
+                    "link": "https://www.amazon.com/s?k=%5B%22clothing%22%2C+%22dress%22%2C+%22red%22%2C+%22comfortable%22%2C+%22fashion%22%2C+%22women%22%2C+%22apparel%22%2C+%22style%22%2C+%22b2c%22%2C+%22retail%22%5D&rh=n%3A7141123011%2Cp_6%3AAB7J9X1HLSA1S&dc&qid=1753198443&rnid=2661622011&ref=sr_nr_p_6_1&ds=v1%3AfOn7OFt2594eZmaWWMdXEU%2F6xjtGOAFk%2FU043mr6Zis",
+                    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=%5B%22clothing%22%2C+%22dress%22%2C+%22red%22%2C+%22comfortable%22%2C+%22fashion%22%2C+%22women%22%2C+%22apparel%22%2C+%22style%22%2C+%22b2c%22%2C+%22retail%22%5D&rh=n%3A7141123011%2Cp_6%3AAB7J9X1HLSA1S"
+                }
+                ,
+                {
+                    "position": 2,
+                    "name": "华音小店",
+                    "rh": "p_6:A1U4G10H85KJZU",
+                    "link": "https://www.amazon.com/s?k=%5B%22clothing%22%2C+%22dress%22%2C+%22red%22%2C+%22comfortable%22%2C+%22fashion%22%2C+%22women%22%2C+%22apparel%22%2C+%22style%22%2C+%22b2c%22%2C+%22retail%22%5D&rh=n%3A7141123011%2Cp_6%3AA1U4G10H85KJZU&dc&qid=1753198443&rnid=2661622011&ref=sr_nr_p_6_2&ds=v1%3AzBJSU%2FA2l%2BNyWOiNFE929eWxtSEdCQCUf64EdjrP3Bw",
+                    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=%5B%22clothing%22%2C+%22dress%22%2C+%22red%22%2C+%22comfortable%22%2C+%22fashion%22%2C+%22women%22%2C+%22apparel%22%2C+%22style%22%2C+%22b2c%22%2C+%22retail%22%5D&rh=n%3A7141123011%2Cp_6%3AA1U4G10H85KJZU"
+                }
+            ]
+            ,
+            "care_instructions":
+            [
+                {
+                    "position": 1,
+                    "name": "Hand Wash Only",
+                    "rh": "p_n_feature_fourteen_browse-bin:24676580011",
+                    "link": "https://www.amazon.com/s?k=%5B%22clothing%22%2C+%22dress%22%2C+%22red%22%2C+%22comfortable%22%2C+%22fashion%22%2C+%22women%22%2C+%22apparel%22%2C+%22style%22%2C+%22b2c%22%2C+%22retail%22%5D&rh=n%3A7141123011%2Cp_n_feature_fourteen_browse-bin%3A24676580011&dc&qid=1753198443&rnid=24676465011&ref=sr_nr_p_n_feature_fourteen_browse-bin_1&ds=v1%3AA88495vtH593PMCWoXDxk%2Fc16DTDmSGHFBhXLQVfOv4",
+                    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=%5B%22clothing%22%2C+%22dress%22%2C+%22red%22%2C+%22comfortable%22%2C+%22fashion%22%2C+%22women%22%2C+%22apparel%22%2C+%22style%22%2C+%22b2c%22%2C+%22retail%22%5D&rh=n%3A7141123011%2Cp_n_feature_fourteen_browse-bin%3A24676580011"
+                }
+                ,
+                {
+                    "position": 2,
+                    "name": "Machine Wash",
+                    "rh": "p_n_feature_fourteen_browse-bin:24676581011",
+                    "link": "https://www.amazon.com/s?k=%5B%22clothing%22%2C+%22dress%22%2C+%22red%22%2C+%22comfortable%22%2C+%22fashion%22%2C+%22women%22%2C+%22apparel%22%2C+%22style%22%2C+%22b2c%22%2C+%22retail%22%5D&rh=n%3A7141123011%2Cp_n_feature_fourteen_browse-bin%3A24676581011&dc&qid=1753198443&rnid=24676465011&ref=sr_nr_p_n_feature_fourteen_browse-bin_2&ds=v1%3ADrjmclOS1o7dGK1YsOmJZP7aEp1d1hdVnYA2pjX7iqE",
+                    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=%5B%22clothing%22%2C+%22dress%22%2C+%22red%22%2C+%22comfortable%22%2C+%22fashion%22%2C+%22women%22%2C+%22apparel%22%2C+%22style%22%2C+%22b2c%22%2C+%22retail%22%5D&rh=n%3A7141123011%2Cp_n_feature_fourteen_browse-bin%3A24676581011"
+                }
+            ]
+            ,
+            "closure_type":
+            [
+                {
+                    "position": 1,
+                    "name": "Button",
+                    "rh": "p_n_feature_nineteen_browse-bin:204250912011",
+                    "link": "https://www.amazon.com/s?k=%5B%22clothing%22%2C+%22dress%22%2C+%22red%22%2C+%22comfortable%22%2C+%22fashion%22%2C+%22women%22%2C+%22apparel%22%2C+%22style%22%2C+%22b2c%22%2C+%22retail%22%5D&rh=n%3A7141123011%2Cp_n_feature_nineteen_browse-bin%3A204250912011&dc&qid=1753198443&rnid=204250908011&ref=sr_nr_p_n_feature_nineteen_browse-bin_1&ds=v1%3ANWHFjpNZq7TTyXPxuw5lgpEnolQYlUdxMoJvnQQa7gY",
+                    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=%5B%22clothing%22%2C+%22dress%22%2C+%22red%22%2C+%22comfortable%22%2C+%22fashion%22%2C+%22women%22%2C+%22apparel%22%2C+%22style%22%2C+%22b2c%22%2C+%22retail%22%5D&rh=n%3A7141123011%2Cp_n_feature_nineteen_browse-bin%3A204250912011"
+                }
+            ]
+            ,
+            "amazon_fashion":
+            [
+                {
+                    "position": 1,
+                    "name": "Premium Brands",
+                    "rh": "p_n_feature_eighteen_browse-bin:21451213011",
+                    "link": "https://www.amazon.com/s?k=%5B%22clothing%22%2C+%22dress%22%2C+%22red%22%2C+%22comfortable%22%2C+%22fashion%22%2C+%22women%22%2C+%22apparel%22%2C+%22style%22%2C+%22b2c%22%2C+%22retail%22%5D&rh=n%3A7141123011%2Cp_n_feature_eighteen_browse-bin%3A21451213011&dc&qid=1753198443&rnid=14630382011&ref=sr_nr_p_n_feature_eighteen_browse-bin_1&ds=v1%3AcPdvBgVisglEXLqGvwB22zVyAoTwZOKtVm22hEY6nX8",
+                    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=%5B%22clothing%22%2C+%22dress%22%2C+%22red%22%2C+%22comfortable%22%2C+%22fashion%22%2C+%22women%22%2C+%22apparel%22%2C+%22style%22%2C+%22b2c%22%2C+%22retail%22%5D&rh=n%3A7141123011%2Cp_n_feature_eighteen_browse-bin%3A21451213011"
+                }
+                ,
+                {
+                    "position": 2,
+                    "name": "Top Brands",
+                    "rh": "p_n_feature_eighteen_browse-bin:14630392011",
+                    "link": "https://www.amazon.com/s?k=%5B%22clothing%22%2C+%22dress%22%2C+%22red%22%2C+%22comfortable%22%2C+%22fashion%22%2C+%22women%22%2C+%22apparel%22%2C+%22style%22%2C+%22b2c%22%2C+%22retail%22%5D&rh=n%3A7141123011%2Cp_n_feature_eighteen_browse-bin%3A14630392011&dc&qid=1753198443&rnid=14630382011&ref=sr_nr_p_n_feature_eighteen_browse-bin_2&ds=v1%3AqF5lxAc9VayOFyFBs4M7N45IbVzjCjL45NEgKtqKsXI",
+                    "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=%5B%22clothing%22%2C+%22dress%22%2C+%22red%22%2C+%22comfortable%22%2C+%22fashion%22%2C+%22women%22%2C+%22apparel%22%2C+%22style%22%2C+%22b2c%22%2C+%22retail%22%5D&rh=n%3A7141123011%2Cp_n_feature_eighteen_browse-bin%3A14630392011"
+                }
+            ]
+        }
+    }
